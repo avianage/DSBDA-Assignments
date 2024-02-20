@@ -1,471 +1,471 @@
 ,gender,NationalITy,PlaceofBirth,StageID,GradeID,SectionID,Topic,Semester,Relation,raisedhands,VisITedResources,AnnouncementsView,Discussion,ParentschoolSatisfaction,StudentAbsenceDays,Class,Discussion-Equal-Width-Bin,Discussion-Equal-Frequency-Bin,Discussion-Custom-Binning
-0,M,KW,KuwaIT,lowerlevel,2,A,IT,F,Father,0.15,0.16161616161616163,2,20,Good,0,M,very low,low,very low
-1,M,KW,KuwaIT,lowerlevel,2,A,IT,F,Father,0.2,0.20202020202020202,3,25,Good,0,M,low,low,very low
-2,M,KW,KuwaIT,lowerlevel,2,A,IT,F,Father,0.1,0.0707070707070707,0,30,Bad,1,L,low,low,very low
-3,M,KW,KuwaIT,lowerlevel,2,A,IT,F,Father,0.3,0.25252525252525254,5,35,Bad,1,L,low,medium,very low
-4,M,KW,KuwaIT,lowerlevel,2,A,IT,F,Father,0.4,0.5050505050505051,12,50,Bad,1,M,medium,high,low
-5,F,KW,KuwaIT,lowerlevel,2,A,IT,F,Father,0.42,0.30303030303030304,13,70,Bad,1,M,high,high,high
-6,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.35,0.12121212121212122,0,17,Bad,1,L,very low,low,
-7,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.5,0.10101010101010101,15,22,Good,0,M,low,low,very low
-8,F,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.12,0.21212121212121213,16,50,Good,0,M,medium,high,low
-9,F,KW,KuwaIT,MiddleSchool,5,B,IT,F,Father,0.7,0.8080808080808081,25,70,Good,0,M,high,high,high
-10,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.5,0.8888888888888888,30,80,Good,0,H,very high,very high,very high
-11,M,KW,KuwaIT,MiddleSchool,5,B,Math,F,Father,0.19,0.06060606060606061,19,12,Good,0,M,very low,very low,
-12,M,KW,KuwaIT,lowerlevel,2,A,IT,F,Father,0.05,0.010101010101010102,0,11,Bad,1,L,very low,very low,
-13,M,lebanon,lebanon,MiddleSchool,6,A,Math,F,Father,0.2,0.1414141414141414,12,19,Bad,1,L,very low,low,very low
-14,F,KW,KuwaIT,MiddleSchool,6,A,Math,F,Mum,0.62,0.7070707070707071,44,60,Bad,1,H,high,high,medium
-15,F,KW,KuwaIT,MiddleSchool,4,A,IT,F,Father,0.3,0.40404040404040403,22,66,Good,0,M,high,high,medium
-16,M,KW,KuwaIT,MiddleSchool,5,B,IT,F,Father,0.36,0.30303030303030304,20,80,Bad,1,M,very high,very high,very high
-17,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.55,0.13131313131313133,35,90,Bad,1,M,very high,very high,very high
-18,F,KW,KuwaIT,MiddleSchool,5,A,IT,F,Mum,0.46831196581196577,0.15151515151515152,36,96,Good,0,M,very high,very high,
-19,M,KW,KuwaIT,MiddleSchool,5,B,IT,F,Mum,0.7,0.5050505050505051,40,99,Good,0,H,very high,very high,
-20,F,KW,KuwaIT,MiddleSchool,5,A,IT,F,Father,0.6,0.6060606060606061,33,90,Bad,1,M,very high,very high,very high
-21,F,KW,KuwaIT,MiddleSchool,5,B,IT,F,Father,0.1,0.12121212121212122,4,80,Bad,0,M,very high,very high,very high
-22,M,KW,KuwaIT,MiddleSchool,5,A,IT,F,Father,0.15,0.21212121212121213,2,90,Bad,0,M,very high,very high,very high
-23,M,KW,KuwaIT,MiddleSchool,5,A,IT,F,Father,0.02,0.0,2,50,Bad,1,L,medium,high,low
-24,M,KW,KuwaIT,MiddleSchool,5,B,IT,F,Father,0.0,0.020202020202020204,3,70,Good,1,L,high,high,high
-25,M,KW,KuwaIT,MiddleSchool,5,A,IT,F,Father,0.08,0.0707070707070707,30,40,Good,1,L,low,medium,low
-26,M,KW,KuwaIT,MiddleSchool,5,B,IT,F,Father,0.19,0.1919191919191919,25,40,Bad,0,M,low,medium,low
-27,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,F,Father,0.25,0.15151515151515152,12,33,Bad,1,L,low,medium,very low
-28,M,KW,KuwaIT,MiddleSchool,6,A,Science,F,Father,0.75,0.8585858585858586,52,43,Good,0,M,medium,medium,low
-29,F,KW,KuwaIT,MiddleSchool,6,A,Arabic,F,Father,0.3,0.9090909090909091,33,35,Bad,0,M,low,medium,very low
-30,F,KW,KuwaIT,MiddleSchool,6,A,Arabic,F,Father,0.35,0.8080808080808081,50,70,Good,0,H,high,high,high
-31,M,KW,KuwaIT,MiddleSchool,5,A,IT,F,Father,0.04,0.050505050505050504,40,16,Good,1,L,very low,low,
-32,F,KW,KuwaIT,lowerlevel,5,A,IT,F,Father,0.02,0.1919191919191919,10,50,Good,1,L,medium,high,low
-33,M,KW,KuwaIT,lowerlevel,3,A,English,F,Father,0.08,0.2222222222222222,9,40,Bad,1,L,low,medium,low
-34,M,KW,KuwaIT,MiddleSchool,5,B,Science,F,Father,0.12,0.1111111111111111,8,40,Bad,1,L,low,medium,low
-36,M,KW,KuwaIT,MiddleSchool,5,B,Science,F,Mum,0.08,0.06060606060606061,4,22,Good,1,L,low,low,very low
-37,F,Egypt,Egypt,MiddleSchool,5,A,IT,F,Father,0.45,0.5454545454545454,26,90,Good,0,M,very high,very high,very high
-38,M,KW,KuwaIT,MiddleSchool,4,A,IT,F,Father,0.0,0.0,0,4,Bad,1,L,very low,very low,
-39,F,SaudiArabia,SaudiArabia,MiddleSchool,5,B,Science,F,Father,0.5,0.9090909090909091,37,70,Good,0,M,high,high,high
-40,F,KW,KuwaIT,MiddleSchool,5,A,IT,F,Father,0.14,0.13131313131313133,3,70,Bad,1,L,high,high,high
-41,M,KW,KuwaIT,MiddleSchool,5,A,IT,F,Father,0.19,0.20202020202020202,16,50,Good,0,M,medium,high,low
-42,M,KW,KuwaIT,HighSchool,7,A,IT,F,Father,0.1,0.12121212121212122,7,33,Good,1,L,low,medium,very low
-43,F,KW,KuwaIT,HighSchool,7,A,IT,F,Father,0.3,0.35353535353535354,28,90,Good,0,M,very high,very high,very high
-44,F,KW,KuwaIT,HighSchool,7,A,IT,F,Father,0.33,0.3333333333333333,30,90,Bad,0,M,very high,very high,very high
-45,M,KW,KuwaIT,MiddleSchool,5,A,Quran,F,Father,0.2,0.12121212121212122,15,70,Good,1,L,high,high,high
-46,M,KW,KuwaIT,lowerlevel,3,A,English,F,Father,0.07,0.10101010101010101,1,30,Bad,1,L,low,low,very low
-47,F,KW,KuwaIT,HighSchool,10,A,English,F,Mum,0.7,0.04040404040404041,39,90,Good,0,H,very high,very high,very high
-49,F,KW,KuwaIT,HighSchool,10,A,English,F,Father,0.29,0.3939393939393939,50,77,Good,0,M,high,very high,very high
-50,F,KW,KuwaIT,HighSchool,10,A,English,F,Father,0.2,0.1414141414141414,12,70,Bad,1,L,high,high,high
-51,M,KW,KuwaIT,HighSchool,10,A,English,F,Father,0.39,0.15151515151515152,16,50,Good,1,L,medium,high,low
-52,F,KW,KuwaIT,HighSchool,10,A,English,F,Father,0.55,0.9090909090909091,16,40,Bad,0,M,low,medium,low
-53,F,KW,KuwaIT,HighSchool,9,A,Science,F,Mum,0.49,0.7070707070707071,19,75,Good,0,H,high,very high,high
-54,M,KW,KuwaIT,HighSchool,10,A,English,F,Mum,0.12,0.5050505050505051,8,30,Bad,1,L,low,low,very low
-55,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.16,0.1414141414141414,6,20,Good,1,L,very low,low,very low
-56,M,USA,USA,MiddleSchool,6,B,Math,F,Father,0.19,0.050505050505050504,4,1,Good,1,L,very low,very low,
-57,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.05,0.020202020202020204,6,5,Good,1,L,very low,very low,
-58,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.28,0.6060606060606061,19,50,Good,0,M,medium,high,low
-59,F,USA,USA,MiddleSchool,5,A,Math,F,Father,0.27,0.2222222222222222,22,40,Good,0,M,low,medium,low
-60,F,Jordan,Jordan,lowerlevel,3,A,English,F,Mum,0.21,0.10101010101010101,28,20,Good,1,L,very low,low,very low
-61,M,KW,KuwaIT,HighSchool,8,A,IT,F,Father,0.5,0.7070707070707071,32,40,Good,0,M,low,medium,low
-62,M,venzuela,venzuela,HighSchool,8,A,IT,F,Mum,0.8,0.9090909090909091,70,80,Good,0,H,very high,very high,very high
-63,M,KW,KuwaIT,HighSchool,8,A,IT,F,Father,0.17,0.13131313131313133,16,12,Bad,0,M,very low,very low,
-64,M,KW,KuwaIT,HighSchool,8,A,IT,F,Father,0.0,0.050505050505050504,7,2,Bad,1,L,very low,very low,
-66,F,KW,KuwaIT,HighSchool,10,A,English,F,Father,0.25,0.10101010101010101,19,30,Bad,1,M,low,low,very low
-67,F,USA,USA,HighSchool,10,A,English,F,Mum,0.65,0.7575757575757576,23,80,Good,0,H,very high,very high,very high
-68,F,USA,USA,HighSchool,10,A,IT,F,Mum,0.7,0.696969696969697,35,30,Good,0,H,low,low,very low
-69,M,Jordan,Jordan,MiddleSchool,5,A,IT,F,Father,0.39,0.40404040404040403,11,33,Bad,0,M,low,medium,very low
-70,M,Jordan,Jordan,MiddleSchool,5,A,IT,F,Father,0.22,0.30303030303030304,10,12,Good,1,L,very low,very low,
-71,M,KW,KuwaIT,MiddleSchool,5,A,IT,F,Father,0.29,0.2222222222222222,9,20,Good,0,M,very low,low,very low
-72,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.11,0.020202020202020204,2,8,Bad,0,L,very low,very low,
-73,F,KW,KuwaIT,MiddleSchool,5,A,English,F,Father,0.19,0.30303030303030304,26,19,Bad,1,M,very low,low,very low
-74,M,KW,KuwaIT,MiddleSchool,5,B,IT,F,Father,0.12,0.0,6,13,Bad,0,L,very low,very low,
-75,M,Jordan,Jordan,MiddleSchool,5,A,Quran,F,Mum,0.5,0.9090909090909091,29,60,Good,0,M,high,high,medium
-76,M,Iran,Iran,HighSchool,7,A,IT,F,Mum,0.15,0.7070707070707071,37,44,Good,0,M,medium,medium,low
-77,M,KW,KuwaIT,HighSchool,7,A,IT,F,Father,0.2,0.8080808080808081,33,33,Good,0,M,low,medium,very low
-78,M,KW,KuwaIT,HighSchool,9,A,Quran,F,Father,0.13,0.030303030303030304,11,9,Bad,1,L,very low,very low,
-80,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.08,0.15151515151515152,10,40,Bad,0,L,low,medium,low
-81,M,KW,KuwaIT,lowerlevel,1,A,IT,F,Father,0.08,0.25252525252525254,1,70,Bad,1,L,high,high,high
-82,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.07,0.050505050505050504,2,80,Good,1,L,very high,very high,very high
-83,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.07,0.04040404040404041,10,50,Good,1,M,medium,high,low
-84,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.5,0.7070707070707071,50,10,Good,1,H,very low,very low,
-85,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.01,0.0,1,12,Bad,1,L,very low,very low,
-86,M,SaudiArabia,SaudiArabia,lowerlevel,1,B,IT,F,Father,0.7,0.12121212121212122,40,50,Good,0,H,medium,high,low
-87,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.19,0.7070707070707071,3,50,Bad,0,L,medium,high,low
-88,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.03,0.12121212121212122,4,33,Bad,0,L,low,medium,very low
-89,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.05,0.20202020202020202,1,50,Good,1,L,medium,high,low
-90,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.04,0.08080808080808081,10,60,Good,1,L,high,high,medium
-91,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.8,0.9090909090909091,55,19,Good,0,H,very low,low,very low
-92,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.5,0.7070707070707071,19,15,Good,0,H,very low,very low,
-93,M,USA,USA,lowerlevel,1,B,IT,F,Father,0.55,0.898989898989899,40,40,Good,0,H,low,medium,low
-94,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.8,0.4444444444444444,35,10,Good,1,L,very low,very low,
-95,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,1.0,0.8080808080808081,2,70,Bad,0,H,high,high,high
-96,F,KW,KuwaIT,lowerlevel,1,C,IT,F,Father,0.14,0.6060606060606061,11,75,Good,0,H,high,very high,high
-97,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.06,0.020202020202020204,38,12,Bad,0,M,very low,very low,
-98,F,KW,KuwaIT,lowerlevel,1,C,IT,F,Father,0.1,0.030303030303030304,0,30,Bad,0,M,low,low,very low
-99,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.5,0.0707070707070707,9,50,Bad,1,M,medium,high,low
-100,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.5,0.9090909090909091,40,90,Bad,0,M,very high,very high,very high
-101,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Mum,0.7,0.9292929292929293,50,7,Good,0,H,very low,very low,
-102,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.02,0.06060606060606061,2,8,Bad,1,L,very low,very low,
-103,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.01,0.0707070707070707,6,10,Bad,1,L,very low,very low,
-104,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.0,0.12121212121212122,3,3,Good,1,M,very low,very low,
-105,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.0,0.0,5,80,Good,1,L,very high,very high,very high
-106,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.12,0.26262626262626265,7,40,Good,0,M,low,medium,low
-107,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.7,0.9090909090909091,41,33,Bad,0,H,low,medium,very low
-108,M,SaudiArabia,SaudiArabia,lowerlevel,1,B,IT,F,Father,0.07,0.12121212121212122,5,3,Bad,1,M,very low,very low,
-109,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.9,0.7070707070707071,30,14,Bad,0,M,very low,very low,
-111,M,KW,KuwaIT,lowerlevel,1,C,IT,F,Father,0.77,0.8080808080808081,51,80,Good,0,M,very high,very high,very high
-112,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.02,0.050505050505050504,3,50,Bad,1,L,medium,high,low
-113,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.25,0.2727272727272727,0,69,Bad,1,L,high,high,medium
-114,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.11,0.020202020202020204,0,50,Bad,1,L,medium,high,low
-115,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.0,0.08080808080808081,11,70,Good,1,L,high,high,high
-116,F,KW,KuwaIT,lowerlevel,1,C,IT,F,Mum,0.77,0.8080808080808081,12,19,Good,1,M,very low,low,very low
-117,F,KW,KuwaIT,lowerlevel,1,C,IT,F,Mum,0.25,0.29292929292929293,40,17,Good,0,H,very low,low,
-118,F,KW,KuwaIT,lowerlevel,1,C,IT,F,Mum,0.24,0.35353535353535354,23,22,Good,1,M,low,low,very low
-119,M,KW,KuwaIT,lowerlevel,1,C,IT,F,Father,0.6,0.6060606060606061,3,60,Bad,0,M,high,high,medium
-120,M,KW,KuwaIT,lowerlevel,1,C,IT,F,Mum,0.21,0.12121212121212122,0,50,Good,0,M,medium,high,low
-121,M,KW,KuwaIT,lowerlevel,1,C,IT,F,Mum,0.0,0.04040404040404041,8,30,Bad,1,L,low,low,very low
-122,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.66,0.9090909090909091,55,12,Good,1,M,very low,very low,
-123,F,lebanon,lebanon,lowerlevel,1,B,IT,F,Father,0.7,0.98989898989899,7,5,Good,0,M,very low,very low,
-124,M,KW,KuwaIT,lowerlevel,1,C,IT,F,Father,0.0,0.06060606060606061,4,15,Bad,0,L,very low,very low,
-125,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.12,0.30303030303030304,0,17,Good,1,L,very low,low,
-126,F,Iran,Iran,lowerlevel,1,C,IT,F,Father,0.02,0.09090909090909091,7,55,Good,0,M,medium,high,low
-127,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.55,0.3333333333333333,6,9,Bad,1,L,very low,very low,
-128,M,KW,KuwaIT,lowerlevel,1,C,IT,F,Father,0.12,0.10101010101010101,20,16,Bad,0,L,very low,low,
-129,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.7,0.9090909090909091,2,2,Good,0,L,very low,very low,
-130,F,KW,KuwaIT,lowerlevel,1,C,IT,F,Father,0.07,0.09090909090909091,5,30,Bad,1,L,low,low,very low
-131,M,Jordan,Jordan,lowerlevel,1,C,IT,F,Father,0.8,0.42424242424242425,20,50,Good,0,M,medium,high,low
-132,M,KW,KuwaIT,lowerlevel,1,C,IT,S,Father,0.0,0.030303030303030304,10,3,Bad,1,L,very low,very low,
-133,M,KW,KuwaIT,lowerlevel,1,A,IT,S,Father,0.12,0.6060606060606061,0,70,Good,1,L,high,high,high
-134,M,KW,KuwaIT,MiddleSchool,5,A,Quran,S,Father,0.8,0.8080808080808081,15,70,Good,0,H,high,high,high
-136,F,KW,USA,HighSchool,9,A,Quran,S,Mum,0.7,0.8080808080808081,95,70,Good,0,H,high,high,high
-137,F,KW,USA,HighSchool,9,A,Quran,F,Mum,0.6,0.8080808080808081,50,40,Bad,0,M,low,medium,low
-138,F,Jordan,Egypt,MiddleSchool,5,A,Quran,F,Mum,1.0,0.8080808080808081,95,90,Bad,0,H,very high,very high,very high
-139,M,Jordan,USA,MiddleSchool,5,A,Quran,F,Mum,1.0,0.8585858585858586,85,70,Bad,0,M,high,high,high
-140,M,Tunis,Tunis,MiddleSchool,5,A,Quran,F,Father,0.1,0.6060606060606061,5,20,Bad,1,L,very low,low,very low
-141,M,Tunis,Tunis,MiddleSchool,5,A,Quran,S,Father,0.19,0.6565656565656566,50,10,Bad,1,L,very low,very low,
-142,M,Tunis,Tunis,MiddleSchool,5,A,Quran,S,Father,0.1,0.7575757575757576,55,11,Good,0,M,very low,very low,
-143,M,KW,KuwaIT,MiddleSchool,5,A,Quran,S,Father,0.8,0.9090909090909091,55,19,Good,0,H,very low,low,very low
-144,M,KW,KuwaIT,MiddleSchool,5,A,Quran,S,Father,0.1,0.10101010101010101,15,19,Bad,1,L,very low,low,very low
-145,M,Tunis,SaudiArabia,MiddleSchool,5,A,Quran,S,Father,0.7,0.7575757575757576,55,11,Bad,0,M,very low,very low,
-146,F,lebanon,lebanon,MiddleSchool,5,A,Quran,S,Mum,1.0,0.7575757575757576,50,70,Good,0,H,high,high,high
-147,F,lebanon,lebanon,MiddleSchool,5,A,Quran,S,Father,0.1,0.797979797979798,30,30,Bad,0,M,low,low,very low
-148,F,Jordan,Jordan,MiddleSchool,5,A,Quran,S,Father,0.6,0.5555555555555556,30,40,Bad,0,M,low,medium,low
-149,F,Jordan,lebanon,MiddleSchool,5,A,Quran,S,Mum,1.0,0.7575757575757576,50,70,Bad,0,H,high,high,high
-150,M,SaudiArabia,SaudiArabia,HighSchool,9,A,Quran,S,Father,0.8,0.8080808080808081,51,59,Good,0,H,medium,high,medium
-151,M,SaudiArabia,USA,HighSchool,9,A,Science,S,Father,0.23,0.6363636363636364,71,89,Good,0,M,very high,very high,very high
-152,F,SaudiArabia,USA,HighSchool,9,B,Science,S,Father,1.0,0.9191919191919192,98,40,Bad,0,H,low,medium,low
-153,M,SaudiArabia,USA,HighSchool,9,B,Spanish,S,Father,0.1,0.5151515151515151,40,40,Bad,1,L,low,medium,low
-154,M,SaudiArabia,USA,HighSchool,9,B,English,S,Father,0.7,0.5050505050505051,33,41,Bad,1,M,medium,medium,low
-155,M,SaudiArabia,USA,HighSchool,9,B,Math,S,Father,0.7,0.5858585858585859,73,91,Bad,0,H,very high,very high,very high
-156,F,Tunis,USA,HighSchool,9,B,French,S,Father,0.7,0.5050505050505051,30,49,Good,0,M,medium,medium,low
-157,M,Tunis,Tunis,HighSchool,9,B,Science,S,Father,0.7,0.5050505050505051,33,40,Good,0,M,low,medium,low
-158,M,Tunis,KuwaIT,MiddleSchool,5,B,Science,S,Father,0.22,0.5151515151515151,48,10,Bad,1,L,very low,very low,
-159,F,KW,KuwaIT,MiddleSchool,5,B,Science,S,Father,0.62,0.6868686868686869,48,80,Good,0,M,very high,very high,very high
-160,F,Jordan,Jordan,MiddleSchool,5,B,Science,S,Mum,0.82,0.898989898989899,58,50,Good,0,H,medium,high,low
-161,M,Jordan,Jordan,MiddleSchool,5,B,Science,S,Mum,0.72,0.8080808080808081,58,66,Bad,0,M,high,high,medium
-162,F,Jordan,Jordan,lowerlevel,1,B,French,S,Mum,0.7,0.8282828282828283,3,73,Bad,0,H,high,very high,high
-163,F,Jordan,USA,lowerlevel,1,B,French,S,Mum,0.6,0.8282828282828283,93,43,Bad,1,M,medium,medium,low
-164,M,Jordan,Jordan,lowerlevel,1,B,French,S,Mum,0.55,0.7272727272727273,83,14,Good,1,M,very low,very low,
-165,F,Morocco,Morocco,lowerlevel,1,B,French,S,Mum,0.72,0.6565656565656566,73,66,Good,0,H,high,high,medium
-166,M,KW,KuwaIT,lowerlevel,1,B,French,S,Mum,0.51,0.8282828282828283,53,43,Bad,0,M,medium,medium,low
-167,M,Tunis,Tunis,lowerlevel,1,B,French,S,Mum,0.8,0.9292929292929293,83,43,Good,0,H,medium,medium,low
-168,M,KW,KuwaIT,lowerlevel,1,B,French,S,Mum,0.6,0.5252525252525253,23,33,Good,0,H,low,medium,very low
-169,M,KW,KuwaIT,lowerlevel,1,B,French,S,Mum,0.3,0.12121212121212122,29,23,Bad,0,M,low,low,very low
-171,M,KW,KuwaIT,lowerlevel,1,B,French,S,Mum,0.6,0.5252525252525253,23,33,Good,0,M,low,medium,very low
-172,M,Iran,Iran,lowerlevel,1,B,French,S,Mum,0.2,0.2222222222222222,53,13,Good,1,L,very low,very low,
-173,M,Syria,Syria,lowerlevel,1,B,French,S,Mum,0.2,0.5252525252525253,23,33,Good,1,L,low,medium,very low
-174,F,Jordan,Jordan,lowerlevel,1,B,French,S,Father,0.5,0.6262626262626263,73,43,Bad,1,M,medium,medium,low
-175,M,Iran,Iran,lowerlevel,1,B,French,S,Father,0.1,0.020202020202020204,13,53,Bad,1,L,medium,high,low
-176,M,Tunis,Tunis,lowerlevel,1,B,French,S,Mum,0.6,0.5252525252525253,23,33,Bad,0,H,low,medium,very low
-177,F,USA,USA,lowerlevel,1,B,French,S,Mum,0.15,0.5252525252525253,83,11,Bad,0,M,very low,very low,
-178,F,lebanon,lebanon,lowerlevel,1,B,French,S,Mum,0.8,0.42424242424242425,33,13,Bad,0,H,very low,very low,
-179,M,lebanon,lebanon,lowerlevel,1,B,French,S,Mum,0.4,0.5151515151515151,20,33,Bad,0,M,low,medium,very low
-180,F,SaudiArabia,SaudiArabia,lowerlevel,1,B,French,S,Father,0.6,0.7070707070707071,63,93,Bad,0,H,very high,very high,very high
-181,M,Jordan,Jordan,lowerlevel,1,B,French,S,Father,0.5,0.6262626262626263,13,33,Bad,1,L,low,medium,very low
-182,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Mum,0.85,0.7575757575757576,62,53,Bad,0,H,medium,high,low
-183,F,lebanon,lebanon,MiddleSchool,6,A,Arabic,S,Father,0.25,0.15151515151515152,32,53,Bad,0,M,medium,high,low
-184,M,lebanon,lebanon,MiddleSchool,6,A,Arabic,S,Mum,0.1,0.35353535353535354,30,13,Bad,1,L,very low,very low,
-185,M,lebanon,Jordan,MiddleSchool,6,A,Arabic,S,Mum,0.87,0.6565656565656566,82,33,Good,0,H,low,medium,very low
-186,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Mum,0.85,0.15151515151515152,22,53,Good,0,M,medium,high,low
-187,F,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Father,0.8,0.7171717171717171,52,51,Good,0,M,medium,high,low
-188,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Mum,0.75,0.7171717171717171,72,53,Good,0,H,medium,high,low
-189,F,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Father,0.85,0.6666666666666666,12,23,Bad,0,M,low,low,very low
-190,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Father,0.23,0.25252525252525254,32,53,Bad,0,L,medium,high,low
-191,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Father,0.15,0.25252525252525254,37,13,Good,1,L,very low,very low,
-192,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Mum,0.95,0.9191919191919192,62,53,Good,0,M,medium,high,low
-193,M,Morocco,Morocco,MiddleSchool,6,A,Arabic,S,Mum,0.81,0.7575757575757576,62,53,Bad,0,M,medium,high,low
-194,M,Morocco,Morocco,MiddleSchool,6,A,Arabic,S,Mum,0.53,0.7575757575757576,72,23,Bad,0,M,low,low,very low
-195,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Father,0.15,0.43434343434343436,42,33,Good,0,M,low,medium,very low
-196,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Mum,0.92,0.6565656565656566,62,53,Good,0,H,medium,high,low
-197,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Mum,0.83,0.7575757575757576,62,53,Bad,0,H,medium,high,low
-198,M,Morocco,Morocco,MiddleSchool,6,B,Arabic,S,Father,0.27,0.15151515151515152,42,53,Bad,1,L,medium,high,low
-199,M,KW,KuwaIT,MiddleSchool,6,B,Arabic,S,Father,0.45,0.9595959595959596,12,13,Bad,0,M,very low,very low,
-200,M,KW,KuwaIT,MiddleSchool,6,B,Arabic,S,Mum,0.15,0.9090909090909091,52,83,Bad,0,H,very high,very high,very high
-201,F,lebanon,lebanon,MiddleSchool,6,A,Arabic,S,Mum,0.45,0.5858585858585859,52,43,Good,0,H,medium,medium,low
-202,M,KW,KuwaIT,MiddleSchool,6,B,Arabic,S,Father,0.25,0.050505050505050504,12,33,Good,0,M,low,medium,very low
-203,F,KW,KuwaIT,MiddleSchool,6,B,Arabic,S,Father,0.22,0.5151515151515151,42,40,Bad,0,M,low,medium,low
-204,M,Jordan,Jordan,MiddleSchool,6,B,Arabic,S,Father,0.29,0.10101010101010101,12,24,Bad,1,L,low,low,very low
-205,F,SaudiArabia,SaudiArabia,MiddleSchool,6,B,Arabic,S,Mum,0.72,0.5151515151515151,42,24,Bad,1,H,low,low,very low
-206,M,KW,KuwaIT,MiddleSchool,6,B,Arabic,S,Father,0.67,0.31313131313131315,42,14,Good,0,M,very low,very low,
-207,M,KW,KuwaIT,MiddleSchool,6,C,Spanish,S,Father,0.17,0.21212121212121213,42,14,Good,0,M,very low,very low,
-208,M,Tunis,Tunis,MiddleSchool,6,C,Spanish,S,Mum,0.27,0.41414141414141414,49,14,Bad,0,M,very low,very low,
-209,M,KW,KuwaIT,MiddleSchool,6,C,Spanish,S,Father,0.7,0.8181818181818182,39,84,Bad,0,M,very high,very high,very high
-210,M,Jordan,SaudiArabia,MiddleSchool,6,C,Spanish,S,Mum,0.27,0.9090909090909091,82,14,Good,0,H,very low,very low,
-211,M,KW,KuwaIT,MiddleSchool,6,C,Spanish,S,Father,0.17,0.6161616161616161,42,14,Bad,0,M,very low,very low,
-212,M,Tunis,Tunis,MiddleSchool,6,C,Spanish,S,Mum,0.87,0.8181818181818182,42,19,Good,0,H,very low,low,very low
-213,M,Tunis,Tunis,MiddleSchool,6,C,Spanish,S,Father,0.07,0.6161616161616161,22,14,Bad,1,L,very low,very low,
-214,M,KW,KuwaIT,MiddleSchool,6,C,Spanish,S,Father,0.17,0.5050505050505051,2,4,Bad,1,L,very low,very low,
-215,M,KW,KuwaIT,MiddleSchool,6,C,Spanish,S,Father,0.05,0.21212121212121213,42,14,Good,1,L,very low,very low,
-216,M,Iran,Iran,MiddleSchool,6,C,Spanish,S,Mum,0.27,0.41414141414141414,32,61,Bad,1,M,high,high,medium
-217,F,Jordan,KuwaIT,MiddleSchool,6,C,Spanish,S,Father,0.87,0.8888888888888888,40,10,Good,0,M,very low,very low,
-218,M,KW,KuwaIT,MiddleSchool,6,C,Spanish,S,Mum,0.96,0.6161616161616161,42,94,Bad,0,H,very high,very high,
-219,M,KW,KuwaIT,MiddleSchool,6,C,Spanish,S,Mum,0.57,0.5151515151515151,46,34,Good,0,M,low,medium,very low
-220,M,lebanon,lebanon,MiddleSchool,6,C,Spanish,S,Father,0.77,0.696969696969697,41,13,Good,0,M,very low,very low,
-221,M,lebanon,lebanon,MiddleSchool,6,C,Spanish,S,Father,0.8,0.5151515151515151,40,24,Good,0,M,low,low,very low
-222,M,KW,KuwaIT,MiddleSchool,6,B,Spanish,S,Father,0.62,0.6161616161616161,82,40,Bad,0,M,low,medium,low
-223,M,KW,KuwaIT,MiddleSchool,6,A,Spanish,S,Mum,0.72,0.8383838383838383,12,90,Good,0,H,very high,very high,very high
-224,M,KW,KuwaIT,MiddleSchool,6,B,Spanish,S,Mum,0.87,0.8181818181818182,22,70,Bad,0,H,high,high,high
-225,M,KW,KuwaIT,MiddleSchool,6,A,Spanish,S,Mum,0.72,0.9090909090909091,12,30,Bad,0,M,low,low,very low
-226,M,KW,KuwaIT,MiddleSchool,6,B,Spanish,S,Father,0.02,0.1111111111111111,62,30,Bad,0,L,low,low,very low
-227,M,KW,KuwaIT,MiddleSchool,6,A,Spanish,S,Father,0.05,0.030303030303030304,2,10,Good,0,L,very low,very low,
-228,M,KW,KuwaIT,HighSchool,9,B,Math,S,Mum,0.73,0.8484848484848485,77,81,Good,1,H,very high,very high,very high
-229,M,KW,KuwaIT,MiddleSchool,6,A,Spanish,S,Father,0.05,0.1717171717171717,21,10,Bad,1,L,very low,very low,
-230,M,Iran,Iran,MiddleSchool,6,A,Spanish,S,Mum,0.51,0.42424242424242425,12,29,Bad,1,M,low,low,very low
-231,M,Syria,Jordan,MiddleSchool,6,A,Spanish,S,Father,0.09,0.0707070707070707,21,20,Good,1,L,very low,low,very low
-232,M,Syria,Syria,MiddleSchool,5,A,Quran,F,Father,0.19,0.7272727272727273,15,50,Good,1,M,medium,high,low
-233,F,Jordan,Jordan,MiddleSchool,5,B,Science,S,Mum,0.32,0.8080808080808081,58,46,Good,1,M,medium,medium,low
-234,M,KW,KuwaIT,MiddleSchool,5,B,Science,S,Mum,0.32,0.6060606060606061,58,66,Good,1,M,high,high,medium
-235,M,KW,KuwaIT,MiddleSchool,5,B,Science,S,Father,0.12,0.08080808080808081,18,26,Bad,1,L,low,low,very low
-236,M,Jordan,Jordan,MiddleSchool,5,B,Science,S,Father,0.52,0.10101010101010101,13,6,Bad,1,L,very low,very low,
-237,M,KW,KuwaIT,MiddleSchool,5,B,Science,S,Father,0.72,0.8080808080808081,58,66,Good,1,M,high,high,medium
-238,F,KW,KuwaIT,MiddleSchool,5,B,Science,S,Mum,0.72,0.8080808080808081,58,66,Good,1,M,high,high,medium
-239,M,Egypt,Egypt,MiddleSchool,5,B,Science,S,Mum,0.92,0.8080808080808081,88,76,Good,0,H,high,very high,very high
-240,M,KW,KuwaIT,MiddleSchool,5,B,Science,S,Mum,0.72,0.8080808080808081,98,96,Bad,0,H,very high,very high,
-241,M,Egypt,Egypt,MiddleSchool,5,B,Science,S,Father,0.72,0.8080808080808081,58,86,Good,0,M,very high,very high,very high
-242,M,KW,KuwaIT,MiddleSchool,5,B,Science,S,Father,0.22,0.20202020202020202,18,6,Bad,1,L,very low,very low,
-243,M,Egypt,KuwaIT,MiddleSchool,5,B,Science,S,Father,0.12,0.20202020202020202,38,46,Bad,1,M,medium,medium,low
-244,M,KW,KuwaIT,MiddleSchool,5,B,IT,S,Mum,0.7,0.9292929292929293,83,85,Bad,0,H,very high,very high,very high
-245,F,KW,KuwaIT,MiddleSchool,4,A,IT,S,Father,0.5,0.40404040404040403,52,66,Bad,0,M,high,high,medium
-246,F,KW,KuwaIT,MiddleSchool,4,A,Science,S,Father,0.8,0.9494949494949495,62,77,Good,0,H,high,very high,very high
-247,F,KW,KuwaIT,MiddleSchool,4,A,Math,S,Father,0.87,0.48484848484848486,82,96,Bad,1,M,very high,very high,
-248,F,KW,KuwaIT,MiddleSchool,4,A,Quran,S,Father,0.7,0.40404040404040403,2,16,Bad,1,L,very low,low,
-249,M,KW,KuwaIT,lowerlevel,2,A,IT,S,Father,0.65,0.8686868686868687,62,40,Good,1,M,low,medium,low
-250,M,KW,KuwaIT,lowerlevel,2,A,Math,S,Father,0.15,0.06060606060606061,32,40,Good,0,H,low,medium,low
-251,M,Egypt,Egypt,lowerlevel,2,A,English,S,Mum,0.19,0.7474747474747475,32,17,Good,1,L,very low,low,
-252,F,KW,KuwaIT,lowerlevel,2,A,Science,S,Father,0.69,0.7676767676767676,82,94,Bad,0,M,very high,very high,
-253,M,KW,KuwaIT,lowerlevel,2,A,Arabic,S,Father,0.39,0.26262626262626265,12,44,Bad,1,L,medium,medium,low
-254,M,KW,KuwaIT,lowerlevel,2,A,English,S,Father,0.59,0.9797979797979798,42,70,Good,0,H,high,high,high
-255,M,KW,KuwaIT,lowerlevel,2,A,History,S,Father,0.1,0.1717171717171717,12,40,Good,0,H,low,medium,low
-256,F,KW,KuwaIT,lowerlevel,2,A,History,S,Mum,0.8,0.8787878787878788,72,60,Good,0,H,high,high,medium
-257,F,KW,KuwaIT,lowerlevel,2,A,History,S,Father,0.7,1.0,66,65,Good,0,M,high,high,medium
-258,F,KW,KuwaIT,lowerlevel,2,A,History,S,Father,0.8,0.9797979797979798,86,95,Good,0,M,very high,very high,
-259,M,KW,KuwaIT,lowerlevel,2,A,English,S,Mum,0.69,0.3434343434343434,12,17,Bad,1,L,very low,low,
-260,M,KW,KuwaIT,lowerlevel,2,A,History,S,Father,0.1,0.1717171717171717,12,14,Bad,1,L,very low,very low,
-261,M,KW,KuwaIT,lowerlevel,2,A,History,S,Father,0.61,0.9797979797979798,82,64,Bad,1,M,high,high,medium
-262,F,KW,KuwaIT,lowerlevel,2,A,History,S,Mum,0.21,0.2727272727272727,52,34,Good,1,M,low,medium,very low
-263,M,Egypt,Egypt,lowerlevel,2,A,Math,S,Mum,0.49,0.9494949494949495,42,7,Bad,1,M,very low,very low,
-264,F,Jordan,Jordan,MiddleSchool,4,A,English,F,Mum,0.7,0.6464646464646465,42,32,Bad,0,M,low,medium,very low
-265,F,Jordan,Jordan,MiddleSchool,4,A,English,S,Mum,0.79,0.8484848484848485,82,37,Bad,0,H,low,medium,low
-266,M,Jordan,Jordan,MiddleSchool,4,A,English,F,Father,0.19,0.8080808080808081,12,17,Good,1,M,very low,low,
-267,M,Jordan,Jordan,MiddleSchool,4,A,English,S,Father,0.11,0.7070707070707071,32,29,Good,1,M,low,low,very low
-268,M,Jordan,Jordan,MiddleSchool,4,A,English,F,Father,0.1,0.08080808080808081,10,10,Bad,1,M,very low,very low,
-269,M,Jordan,Jordan,MiddleSchool,4,A,English,S,Father,0.18,0.2828282828282828,40,20,Bad,1,M,very low,low,very low
-270,F,Jordan,Jordan,MiddleSchool,4,A,English,F,Mum,0.9,0.8484848484848485,52,30,Good,0,H,low,low,very low
-271,F,Jordan,Jordan,MiddleSchool,4,A,English,S,Mum,0.92,0.8181818181818182,32,36,Good,0,M,low,medium,very low
-272,M,Jordan,Jordan,MiddleSchool,4,A,English,F,Father,0.42,0.21212121212121213,2,16,Bad,0,M,very low,low,
-273,M,Jordan,Jordan,MiddleSchool,4,A,English,S,Father,0.22,0.20202020202020202,6,26,Bad,0,H,low,low,very low
-274,F,lebanon,lebanon,MiddleSchool,4,A,English,F,Mum,0.95,0.8282828282828283,82,70,Good,0,H,high,high,high
-275,F,lebanon,lebanon,MiddleSchool,4,A,English,S,Mum,0.9,0.6262626262626263,80,60,Good,0,H,high,high,medium
-276,M,Palestine,Jordan,MiddleSchool,4,A,English,F,Mum,0.72,0.21212121212121213,22,26,Good,0,H,low,low,very low
-277,M,Palestine,Jordan,MiddleSchool,4,A,English,S,Mum,0.92,0.31313131313131315,42,27,Good,0,H,low,low,very low
-278,M,Palestine,Jordan,MiddleSchool,4,A,English,F,Mum,0.82,0.31313131313131315,52,25,Good,0,M,low,low,very low
-279,M,Palestine,Jordan,MiddleSchool,4,A,English,S,Mum,0.72,0.41414141414141414,46,27,Good,0,M,low,low,very low
-280,M,Iraq,Iraq,MiddleSchool,4,A,English,F,Mum,0.74,0.7171717171717171,56,37,Good,0,H,low,medium,low
-281,M,Iraq,Iraq,MiddleSchool,4,A,English,S,Mum,0.74,0.6060606060606061,56,37,Good,0,H,low,medium,low
-282,F,Jordan,Jordan,MiddleSchool,4,A,English,F,Mum,0.95,0.9494949494949495,72,80,Good,0,H,very high,very high,very high
-283,F,Jordan,Jordan,MiddleSchool,4,A,English,S,Mum,0.97,0.8787878787878788,82,86,Good,0,H,very high,very high,very high
-284,M,Jordan,Jordan,MiddleSchool,4,A,English,F,Father,0.4,0.3838383838383838,32,36,Bad,1,M,low,medium,very low
-285,M,Jordan,Jordan,MiddleSchool,4,A,English,S,Father,0.41,0.3939393939393939,35,39,Bad,1,M,low,medium,low
-286,F,Jordan,Jordan,MiddleSchool,4,A,English,F,Mum,0.51,0.797979797979798,85,89,Good,0,H,very high,very high,very high
-287,F,Jordan,Jordan,MiddleSchool,4,A,English,S,Mum,0.81,0.797979797979798,91,85,Good,0,H,very high,very high,very high
-288,M,Palestine,Jordan,MiddleSchool,4,A,English,F,Mum,0.71,0.7070707070707071,65,69,Good,0,M,high,high,medium
-289,M,Palestine,Jordan,MiddleSchool,4,A,English,F,Mum,0.75,0.7171717171717171,76,80,Good,0,M,very high,very high,very high
-290,F,Jordan,Jordan,lowerlevel,2,A,Science,F,Father,0.49,0.36363636363636365,32,44,Bad,1,L,medium,medium,low
-291,F,Jordan,Jordan,lowerlevel,2,A,Science,S,Father,0.42,0.24242424242424243,12,24,Bad,1,L,low,low,very low
-292,F,Palestine,Palestine,lowerlevel,2,A,Science,F,Mum,0.9,0.8686868686868687,82,74,Good,0,H,high,very high,high
-293,F,Palestine,Palestine,lowerlevel,2,A,Science,S,Mum,0.62,0.6464646464646465,72,84,Good,0,H,very high,very high,very high
-294,M,Iraq,Iraq,lowerlevel,2,A,Science,F,Father,0.9,0.8686868686868687,82,74,Good,1,M,high,very high,high
-295,M,Iraq,Iraq,lowerlevel,2,A,Science,S,Father,0.62,0.6464646464646465,72,84,Good,1,M,very high,very high,very high
-296,F,Jordan,Jordan,lowerlevel,2,A,Science,F,Mum,0.98,0.8787878787878788,86,84,Good,0,H,very high,very high,very high
-297,F,Jordan,Jordan,lowerlevel,2,A,Science,S,Mum,0.72,0.7474747474747475,82,89,Good,0,H,very high,very high,very high
-298,M,Jordan,Jordan,lowerlevel,2,A,Science,F,Father,0.18,0.1717171717171717,26,34,Good,1,M,low,medium,very low
-299,M,Jordan,Jordan,lowerlevel,2,A,Science,S,Father,0.32,0.1414141414141414,32,29,Good,1,M,low,low,very low
-300,M,Jordan,Jordan,lowerlevel,2,A,Science,F,Father,0.1,0.12121212121212122,20,13,Bad,1,L,very low,very low,
-301,M,Jordan,Jordan,lowerlevel,2,A,Science,S,Father,0.22,0.3434343434343434,15,9,Bad,1,L,very low,very low,
-302,F,Jordan,Jordan,lowerlevel,2,B,Science,F,Mum,0.11,0.20202020202020202,21,23,Bad,0,M,low,low,very low
-303,F,Jordan,Jordan,lowerlevel,2,B,Science,S,Mum,0.12,0.4444444444444444,25,39,Bad,0,M,low,medium,low
-304,F,Jordan,Jordan,lowerlevel,2,B,Science,F,Father,0.15,0.5050505050505051,24,43,Bad,0,M,medium,medium,low
-305,F,Jordan,Jordan,lowerlevel,2,B,Science,S,Father,0.32,0.4444444444444444,29,89,Bad,0,M,very high,very high,very high
-306,M,Jordan,Jordan,lowerlevel,2,B,Science,F,Mum,0.65,0.5959595959595959,74,83,Good,0,H,very high,very high,very high
-307,M,Jordan,Jordan,lowerlevel,2,B,Science,S,Mum,0.72,0.6464646464646465,59,89,Good,0,H,very high,very high,very high
-308,M,Palestine,Jordan,lowerlevel,2,B,Science,F,Mum,0.95,0.5757575757575758,74,89,Good,1,M,very high,very high,very high
-309,M,Palestine,Jordan,lowerlevel,2,B,Science,S,Mum,0.82,0.8484848484848485,79,79,Good,1,M,high,very high,very high
-310,M,Jordan,Jordan,lowerlevel,2,B,Science,F,Father,0.25,0.29292929292929293,34,33,Good,1,M,low,medium,very low
-311,M,Jordan,Jordan,lowerlevel,2,B,Science,S,Father,0.42,0.3434343434343434,29,39,Good,1,M,low,medium,low
-312,F,Jordan,Jordan,lowerlevel,2,B,Science,F,Mum,0.55,0.797979797979798,44,43,Good,0,H,medium,medium,low
-313,F,Jordan,Jordan,lowerlevel,2,B,Science,S,Mum,0.62,0.6464646464646465,69,49,Good,0,H,medium,medium,low
-314,F,Jordan,lebanon,lowerlevel,2,B,Science,F,Mum,0.78,0.8888888888888888,74,83,Good,0,H,very high,very high,very high
-315,F,Jordan,lebanon,lowerlevel,2,B,Science,S,Mum,0.72,0.8484848484848485,89,89,Good,0,H,very high,very high,very high
-316,M,Jordan,Jordan,lowerlevel,1,A,French,F,Mum,0.46831196581196577,0.9292929292929293,83,23,Good,0,H,low,low,very low
-318,F,Jordan,Jordan,lowerlevel,1,A,French,F,Mum,0.6,0.9797979797979798,13,3,Good,0,H,very low,very low,
-319,F,Jordan,Jordan,lowerlevel,1,A,French,S,Mum,0.5,0.9595959595959596,23,10,Good,0,H,very low,very low,
-320,F,Jordan,Jordan,lowerlevel,1,A,French,F,Mum,0.6,0.8787878787878788,23,11,Good,1,M,very low,very low,
-322,M,Jordan,Jordan,lowerlevel,1,A,French,F,Father,0.1,0.15151515151515152,10,21,Bad,1,L,low,low,very low
-323,M,Jordan,Jordan,lowerlevel,1,A,French,S,Father,0.3,0.10101010101010101,20,5,Bad,1,L,very low,very low,
-324,M,Syria,Syria,lowerlevel,1,A,French,F,Father,0.24,0.35353535353535354,18,31,Bad,0,M,low,medium,very low
-325,M,Syria,Syria,lowerlevel,1,A,French,S,Father,0.27,0.20202020202020202,33,35,Bad,0,M,low,medium,very low
-326,M,Jordan,Jordan,lowerlevel,1,A,French,F,Father,0.1,0.15151515151515152,10,21,Bad,1,L,low,low,very low
-327,M,Jordan,Jordan,lowerlevel,1,A,French,S,Father,0.3,0.10101010101010101,20,5,Bad,1,L,very low,very low,
-328,F,Jordan,Palestine,lowerlevel,1,A,French,F,Mum,0.8,0.7777777777777778,63,83,Good,0,M,very high,very high,very high
-329,F,Jordan,Palestine,lowerlevel,1,A,French,S,Mum,0.75,0.8585858585858586,73,80,Good,0,M,very high,very high,very high
-330,M,Jordan,Jordan,lowerlevel,1,A,French,F,Father,0.4,0.0707070707070707,50,41,Good,1,L,medium,medium,low
-331,M,Jordan,Jordan,lowerlevel,1,A,French,S,Father,0.35,0.020202020202020204,29,33,Good,1,L,low,medium,very low
-332,F,Jordan,Jordan,lowerlevel,1,A,French,F,Mum,0.1,0.9090909090909091,30,21,Good,0,M,low,low,very low
-333,F,Jordan,Jordan,lowerlevel,1,A,French,S,Mum,0.25,0.8080808080808081,29,23,Good,0,M,low,low,very low
-334,M,Lybia,Lybia,lowerlevel,1,A,French,F,Mum,0.1,0.08080808080808081,9,3,Good,1,L,very low,very low,
-335,M,Lybia,Lybia,lowerlevel,1,A,French,S,Mum,0.15,0.0707070707070707,12,7,Good,1,L,very low,very low,
-336,F,Palestine,Jordan,lowerlevel,1,A,French,F,Mum,0.7,0.9090909090909091,20,21,Good,0,M,low,low,very low
-337,F,Palestine,Jordan,lowerlevel,1,A,French,S,Mum,0.75,0.8080808080808081,15,20,Good,0,M,very low,low,very low
-338,F,Palestine,Jordan,lowerlevel,1,B,French,F,Father,0.78,0.98989898989899,10,11,Good,0,M,very low,very low,
-339,F,Palestine,Jordan,lowerlevel,1,B,French,S,Father,0.79,0.898989898989899,11,14,Good,0,M,very low,very low,
-340,F,Iraq,Iraq,lowerlevel,1,B,French,F,Father,0.16,0.9090909090909091,15,11,Good,0,M,very low,very low,
-341,F,Iraq,Iraq,lowerlevel,1,B,French,S,Father,0.17,0.8080808080808081,13,10,Good,0,M,very low,very low,
-342,M,Jordan,Jordan,lowerlevel,1,B,French,F,Mum,0.4,0.8787878787878788,50,41,Bad,0,M,medium,medium,low
-343,M,Jordan,Jordan,lowerlevel,1,B,French,S,Mum,0.35,0.9292929292929293,29,33,Bad,0,M,low,medium,very low
-344,F,Jordan,Jordan,lowerlevel,1,B,French,F,Mum,0.14,0.9797979797979798,15,14,Good,0,H,very low,very low,
-345,F,Jordan,Jordan,lowerlevel,1,B,French,F,Mum,0.13,0.8282828282828283,20,30,Good,0,H,low,low,very low
-346,F,Jordan,Jordan,lowerlevel,1,B,French,S,Mum,0.24,0.9797979797979798,15,14,Good,0,H,very low,very low,
-347,F,Jordan,Jordan,lowerlevel,1,B,French,S,Mum,0.23,0.8282828282828283,20,30,Good,0,H,low,low,very low
-348,M,Lybia,Lybia,lowerlevel,1,B,French,F,Mum,0.2,0.030303030303030304,9,3,Good,1,L,very low,very low,
-349,M,Lybia,Lybia,lowerlevel,1,B,French,S,Mum,0.15,0.04040404040404041,12,7,Good,1,L,very low,very low,
-350,M,Egypt,Egypt,lowerlevel,1,B,French,F,Mum,0.05,0.13131313131313133,6,6,Good,1,L,very low,very low,
-351,M,Egypt,Egypt,lowerlevel,1,B,French,S,Mum,0.07,0.09090909090909091,11,10,Good,1,L,very low,very low,
-352,F,Jordan,Jordan,lowerlevel,1,B,French,F,Mum,0.1,0.9494949494949495,40,11,Good,0,M,very low,very low,
-353,F,Jordan,Jordan,lowerlevel,1,B,French,S,Mum,0.25,0.898989898989899,21,13,Good,0,M,very low,very low,
-354,M,Jordan,Jordan,lowerlevel,1,B,French,F,Mum,0.3,0.98989898989899,42,21,Good,0,H,low,low,very low
-355,M,Jordan,Jordan,lowerlevel,1,B,French,S,Mum,0.35,0.9797979797979798,41,23,Good,0,H,low,low,very low
-356,M,Jordan,Jordan,lowerlevel,1,B,French,F,Father,0.32,0.8888888888888888,32,25,Good,0,M,low,low,very low
-357,M,Jordan,Jordan,lowerlevel,1,B,French,S,Father,0.25,0.8787878787878788,21,27,Good,0,M,low,low,very low
-358,F,lebanon,lebanon,lowerlevel,1,B,French,F,Mum,0.72,0.98989898989899,52,15,Good,0,H,very low,very low,
-359,F,lebanon,lebanon,lowerlevel,1,B,French,S,Mum,0.75,0.9090909090909091,51,17,Good,0,H,very low,low,
-360,M,Jordan,Jordan,lowerlevel,1,A,Arabic,F,Father,0.2,0.8888888888888888,31,28,Good,1,M,low,low,very low
-362,M,Palestine,Jordan,lowerlevel,1,A,Arabic,F,Father,0.9,0.98989898989899,41,38,Good,0,H,low,medium,low
-363,M,Palestine,Jordan,lowerlevel,1,A,IT,S,Father,0.8,0.8888888888888888,51,39,Good,0,H,low,medium,low
-364,M,Iraq,Iraq,lowerlevel,1,A,Arabic,F,Father,0.8,0.9595959595959596,21,28,Good,0,H,low,low,very low
-365,M,Iraq,Iraq,lowerlevel,1,A,Arabic,S,Father,0.78,0.7070707070707071,31,29,Good,0,H,low,low,very low
-366,M,Jordan,Jordan,lowerlevel,1,A,Arabic,F,Father,0.1,0.18181818181818182,71,38,Good,1,M,low,medium,low
-367,M,Jordan,Jordan,lowerlevel,1,A,Arabic,S,Father,0.1,0.5858585858585859,51,48,Good,1,M,medium,medium,low
-368,F,Palestine,Jordan,lowerlevel,1,A,Arabic,F,Mum,0.98,0.8888888888888888,60,31,Good,0,H,low,medium,very low
-369,F,Palestine,Jordan,lowerlevel,1,A,Arabic,S,Mum,0.75,0.8181818181818182,51,34,Good,0,H,low,medium,very low
-370,M,Jordan,Jordan,lowerlevel,1,A,Arabic,F,Father,0.1,0.1717171717171717,50,21,Bad,0,M,low,low,very low
-371,M,Jordan,Jordan,lowerlevel,1,A,Arabic,S,Father,0.35,0.020202020202020204,29,23,Bad,0,M,low,low,very low
-372,F,Jordan,Jordan,lowerlevel,1,A,Arabic,F,Father,0.1,0.20202020202020202,22,97,Bad,1,L,very high,very high,
-373,F,Jordan,Jordan,lowerlevel,1,A,Arabic,S,Father,0.05,0.09090909090909091,19,98,Bad,1,L,very high,very high,
-374,M,Jordan,Jordan,lowerlevel,1,B,Arabic,F,Father,0.1,0.10101010101010101,40,51,Bad,1,L,medium,high,low
-375,M,Jordan,Jordan,lowerlevel,1,B,Arabic,S,Father,0.35,0.020202020202020204,29,23,Bad,1,L,low,low,very low
-376,M,Jordan,Jordan,lowerlevel,1,B,Arabic,F,Mum,0.2,0.9090909090909091,50,61,Bad,1,M,high,high,medium
-377,M,Jordan,Jordan,lowerlevel,1,B,Arabic,S,Mum,0.32,0.8282828282828283,59,63,Bad,1,M,high,high,medium
-378,M,Jordan,Jordan,lowerlevel,1,B,Arabic,F,Father,0.1,0.30303030303030304,50,91,Bad,1,L,very high,very high,very high
-379,M,Jordan,Jordan,lowerlevel,1,B,Arabic,S,Father,0.12,0.2222222222222222,59,83,Bad,1,L,very high,very high,very high
-380,F,Jordan,Jordan,lowerlevel,1,B,Arabic,F,Father,0.11,0.20202020202020202,20,98,Bad,1,L,very high,very high,
-381,F,Jordan,Jordan,lowerlevel,1,B,Arabic,S,Father,0.1,0.12121212121212122,29,93,Bad,1,L,very high,very high,very high
-382,M,Iraq,Iraq,lowerlevel,1,B,Arabic,F,Mum,0.69,0.8282828282828283,20,28,Good,0,H,low,low,very low
-383,M,Iraq,Iraq,lowerlevel,1,B,Arabic,S,Mum,0.7,0.8383838383838383,29,33,Good,0,H,low,medium,very low
-384,F,Iraq,Iraq,lowerlevel,1,B,Arabic,F,Mum,0.89,0.9292929292929293,40,28,Good,0,H,low,low,very low
-385,F,Iraq,Iraq,lowerlevel,1,B,Arabic,S,Mum,0.79,0.9393939393939394,49,23,Good,0,H,low,low,very low
-386,M,Jordan,Jordan,lowerlevel,1,B,Arabic,F,Mum,0.15,0.9090909090909091,21,97,Good,0,M,very high,very high,
-387,M,Jordan,Jordan,lowerlevel,1,B,Arabic,S,Mum,0.2,0.7777777777777778,31,88,Good,0,M,very high,very high,very high
-388,M,Jordan,SaudiArabia,lowerlevel,1,B,Arabic,F,Mum,0.04,0.10101010101010101,11,7,Good,1,L,very low,very low,
-389,M,Jordan,SaudiArabia,lowerlevel,1,B,Arabic,S,Mum,0.05,0.0,1,8,Good,1,L,very low,very low,
-390,F,Jordan,Jordan,MiddleSchool,5,A,Biology,F,Mum,0.88,0.8181818181818182,50,10,Good,1,M,very low,very low,
-391,F,Jordan,Jordan,MiddleSchool,5,A,Biology,S,Mum,0.9,0.8888888888888888,54,12,Good,1,M,very low,very low,
-392,F,Iraq,Iraq,MiddleSchool,5,A,Biology,F,Mum,0.86,0.98989898989899,50,20,Good,0,H,very low,low,very low
-393,F,Iraq,Iraq,MiddleSchool,5,A,Biology,S,Mum,0.9,0.9090909090909091,57,22,Good,0,H,low,low,very low
-394,M,Jordan,Palestine,MiddleSchool,5,A,Biology,F,Mum,0.78,0.9191919191919192,50,40,Good,0,H,low,medium,low
-395,M,Jordan,Palestine,MiddleSchool,5,A,Biology,S,Mum,0.7,0.98989898989899,54,72,Good,0,H,high,high,high
-396,M,Jordan,Jordan,MiddleSchool,5,A,Biology,F,Father,0.8,0.8080808080808081,46,61,Bad,0,M,high,high,medium
-397,M,Jordan,Jordan,MiddleSchool,5,A,Biology,S,Father,0.85,0.8282828282828283,59,63,Bad,0,M,high,high,medium
-398,M,Palestine,Palestine,MiddleSchool,5,A,Biology,F,Father,0.88,0.9090909090909091,86,81,Good,0,H,very high,very high,very high
-399,M,Palestine,Palestine,MiddleSchool,5,A,Biology,S,Father,0.89,0.9292929292929293,89,83,Good,0,H,very high,very high,very high
-400,M,Jordan,Jordan,MiddleSchool,5,A,Biology,F,Father,0.39,0.7171717171717171,40,26,Good,1,M,low,low,very low
-401,M,Jordan,Jordan,MiddleSchool,5,A,Biology,S,Father,0.35,0.8080808080808081,34,22,Good,1,M,low,low,very low
-402,M,Jordan,Jordan,MiddleSchool,5,A,Biology,F,Father,0.76,0.8181818181818182,80,86,Good,0,H,very high,very high,very high
-403,M,Jordan,Jordan,MiddleSchool,5,A,Biology,S,Father,0.65,0.898989898989899,64,82,Good,0,H,very high,very high,very high
-404,F,Syria,Syria,MiddleSchool,5,A,Biology,F,Mum,0.96,0.9595959595959596,70,70,Good,0,H,high,high,high
-405,F,Syria,Syria,MiddleSchool,5,A,Biology,S,Mum,0.8,0.9191919191919192,87,72,Good,0,H,high,high,high
-406,M,Jordan,Jordan,MiddleSchool,5,A,Biology,F,Mum,0.02,0.09090909090909091,10,1,Bad,1,L,very low,very low,
-407,M,Jordan,Jordan,MiddleSchool,5,A,Biology,S,Mum,0.03,0.08080808080808081,19,3,Bad,1,L,very low,very low,
-408,M,Jordan,Jordan,MiddleSchool,5,B,Biology,F,Father,0.5,0.797979797979798,10,31,Bad,0,M,low,medium,very low
-409,M,Jordan,Jordan,MiddleSchool,5,B,Biology,S,Father,0.53,0.8888888888888888,9,33,Bad,0,M,low,medium,very low
-410,F,Jordan,Jordan,MiddleSchool,5,B,Biology,F,Mum,0.7,0.898989898989899,12,21,Good,0,H,low,low,very low
-411,F,Jordan,Jordan,MiddleSchool,5,B,Biology,S,Mum,0.59,0.9090909090909091,19,43,Good,0,H,medium,medium,low
-412,M,Palestine,Jordan,MiddleSchool,5,B,Biology,F,Father,0.78,0.8080808080808081,66,51,Good,0,M,medium,high,low
-413,M,Palestine,Jordan,MiddleSchool,5,B,Biology,S,Father,0.79,0.7272727272727273,79,83,Good,0,M,very high,very high,very high
-414,F,Lybia,Lybia,MiddleSchool,5,B,Biology,F,Mum,0.1,0.09090909090909091,2,1,Good,1,L,very low,very low,
-415,F,Lybia,Lybia,MiddleSchool,5,B,Biology,S,Mum,0.09,0.0707070707070707,9,3,Good,1,L,very low,very low,
-416,M,Iraq,Iraq,MiddleSchool,5,B,Biology,F,Father,0.98,0.9090909090909091,86,71,Good,0,H,high,high,high
-417,M,Iraq,Iraq,MiddleSchool,5,B,Biology,S,Father,0.89,0.9292929292929293,89,83,Good,0,H,very high,very high,very high
-418,M,Palestine,Jordan,MiddleSchool,5,B,Biology,F,Father,0.88,0.9090909090909091,76,81,Good,0,H,very high,very high,very high
-419,M,Palestine,Jordan,MiddleSchool,5,B,Biology,S,Father,0.99,0.9696969696969697,89,84,Good,0,H,very high,very high,very high
-420,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Mum,0.82,0.898989898989899,22,31,Good,0,H,low,medium,very low
-421,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Mum,0.84,0.9292929292929293,29,43,Good,0,H,medium,medium,low
-422,F,Jordan,Jordan,MiddleSchool,6,A,Geology,F,Mum,0.7,0.696969696969697,46,45,Good,1,M,medium,medium,low
-423,F,Jordan,Jordan,MiddleSchool,6,A,Geology,S,Mum,0.74,0.6262626262626263,49,43,Good,1,M,medium,medium,low
-424,F,Jordan,Jordan,MiddleSchool,6,A,Geology,F,Mum,0.9,0.797979797979798,76,79,Good,0,H,high,very high,very high
-425,F,Jordan,Jordan,MiddleSchool,6,A,Geology,S,Mum,0.84,0.7777777777777778,79,68,Good,0,H,high,high,medium
-426,M,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Mum,0.8,0.8080808080808081,62,11,Good,1,M,very low,very low,
-427,M,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Mum,0.81,0.8282828282828283,69,13,Good,1,M,very low,very low,
-428,M,Jordan,SaudiArabia,MiddleSchool,6,A,Chemistry,F,Father,0.1,0.0,2,41,Bad,1,L,medium,medium,low
-429,M,Jordan,SaudiArabia,MiddleSchool,6,A,Chemistry,S,Father,0.11,0.020202020202020204,9,49,Bad,1,L,medium,medium,low
-430,M,Jordan,SaudiArabia,MiddleSchool,6,A,Geology,F,Father,0.85,0.898989898989899,22,61,Bad,0,H,high,high,medium
-431,M,Jordan,SaudiArabia,MiddleSchool,6,A,Geology,S,Father,0.8,0.898989898989899,23,68,Bad,0,H,high,high,medium
-432,M,Jordan,SaudiArabia,MiddleSchool,6,A,Geology,F,Father,0.95,0.8787878787878788,62,81,Bad,0,M,very high,very high,very high
-433,M,Jordan,SaudiArabia,MiddleSchool,6,A,Geology,S,Father,0.87,0.797979797979798,73,98,Bad,0,M,very high,very high,
-434,M,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Mum,0.85,0.8787878787878788,72,10,Good,1,M,very low,very low,
-435,M,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Mum,0.79,0.8888888888888888,79,20,Good,1,M,very low,low,very low
-436,M,Jordan,Jordan,MiddleSchool,6,A,Geology,F,Mum,0.8,0.8181818181818182,71,30,Good,0,M,low,low,very low
-437,M,Jordan,Jordan,MiddleSchool,6,A,Geology,S,Mum,0.7,0.8383838383838383,70,23,Good,0,M,low,low,very low
-438,M,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Mum,0.8,0.8282828282828283,76,19,Good,0,M,very low,low,very low
-439,M,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Mum,0.7,0.8282828282828283,75,29,Good,0,M,low,low,very low
-440,M,Jordan,Jordan,MiddleSchool,6,A,Geology,F,Mum,0.89,0.8787878787878788,86,15,Good,0,M,very low,very low,
-441,M,Jordan,Jordan,MiddleSchool,6,A,Geology,S,Mum,0.9,0.8686868686868687,85,10,Good,0,M,very low,very low,
-442,M,Jordan,Jordan,MiddleSchool,6,A,History,F,Mum,0.69,0.7777777777777778,76,75,Good,1,M,high,very high,high
-443,M,Jordan,Jordan,MiddleSchool,6,A,History,S,Mum,0.7,0.7676767676767676,65,70,Good,1,M,high,high,high
-444,M,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Mum,0.75,0.7272727272727273,64,39,Good,1,L,low,medium,low
-445,M,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Mum,0.72,0.7676767676767676,66,40,Good,1,L,low,medium,low
-446,M,Jordan,Jordan,MiddleSchool,6,A,Geology,F,Mum,0.77,0.8282828282828283,74,79,Good,0,M,high,very high,very high
-447,M,Jordan,Jordan,MiddleSchool,6,A,Geology,S,Mum,0.71,0.8484848484848485,67,80,Good,0,M,very high,very high,very high
-448,M,Jordan,Jordan,MiddleSchool,6,A,History,F,Mum,0.87,0.9292929292929293,74,89,Good,0,H,very high,very high,very high
-449,M,Jordan,Jordan,MiddleSchool,6,A,History,S,Mum,0.81,0.8484848484848485,77,85,Good,0,H,very high,very high,very high
-450,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Father,0.15,0.9797979797979798,22,10,Good,0,H,very low,very low,
-451,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Father,0.19,0.98989898989899,20,2,Good,0,H,very low,very low,
-452,F,Jordan,Jordan,MiddleSchool,6,A,Geology,F,Father,0.25,0.8282828282828283,52,20,Good,1,M,very low,low,very low
-453,F,Jordan,Jordan,MiddleSchool,6,A,Geology,S,Father,0.29,0.7878787878787878,40,12,Good,1,M,very low,very low,
-454,F,Jordan,Jordan,MiddleSchool,6,A,History,F,Father,0.45,0.8787878787878788,57,80,Good,0,M,very high,very high,very high
-455,F,Jordan,Jordan,MiddleSchool,6,A,History,S,Father,0.39,0.8888888888888888,43,72,Good,0,M,high,high,high
-456,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Father,0.85,0.9090909090909091,52,30,Good,0,H,low,low,very low
-457,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Father,0.79,0.9191919191919192,49,22,Good,0,H,low,low,very low
-458,M,Iraq,Iraq,MiddleSchool,6,A,Chemistry,F,Father,0.9,0.9191919191919192,80,81,Good,0,H,very high,very high,very high
-459,M,Iraq,Iraq,MiddleSchool,6,A,Chemistry,S,Father,0.8,0.9090909090909091,80,83,Good,0,H,very high,very high,very high
-460,M,Iraq,Iraq,MiddleSchool,6,A,Geology,F,Father,0.8,0.8383838383838383,82,71,Good,1,M,high,high,high
-461,M,Iraq,Iraq,MiddleSchool,6,A,Geology,S,Father,0.71,0.8181818181818182,83,72,Good,1,M,high,high,high
-462,M,Iraq,Iraq,MiddleSchool,6,A,History,F,Father,0.72,0.8787878787878788,72,89,Good,1,M,very high,very high,very high
-463,M,Iraq,Iraq,MiddleSchool,6,A,History,S,Father,0.69,0.7777777777777778,83,92,Good,1,M,very high,very high,very high
-464,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Mum,0.85,1.0,42,90,Good,0,H,very high,very high,very high
-465,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Mum,0.89,0.9696969696969697,45,92,Good,0,H,very high,very high,very high
-466,F,Jordan,Jordan,MiddleSchool,6,A,Geology,F,Mum,0.8,0.8282828282828283,64,58,Good,0,H,medium,high,medium
-467,F,Jordan,Jordan,MiddleSchool,6,A,Geology,S,Mum,0.87,0.9393939393939394,63,60,Good,0,H,high,high,medium
-468,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Father,0.15,0.09090909090909091,14,80,Bad,1,L,very high,very high,very high
-469,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Father,0.09,0.06060606060606061,15,85,Bad,1,L,very high,very high,very high
-470,M,Palestine,Jordan,MiddleSchool,6,A,History,F,Father,0.81,0.8686868686868687,86,41,Good,0,M,medium,medium,low
-471,M,Palestine,Jordan,MiddleSchool,6,A,History,S,Father,0.78,0.8282828282828283,78,53,Good,0,M,medium,high,low
-472,M,Palestine,Palestine,MiddleSchool,6,A,Geology,F,Father,0.8,0.8787878787878788,74,68,Good,0,M,high,high,medium
-473,M,Palestine,Palestine,MiddleSchool,6,A,Geology,S,Father,0.85,0.8888888888888888,79,70,Good,0,M,high,high,high
-474,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Father,0.02,0.0707070707070707,4,8,Bad,1,L,very low,very low,
-475,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Father,0.05,0.04040404040404041,5,8,Bad,1,L,very low,very low,
-476,F,Jordan,Jordan,MiddleSchool,6,A,Geology,F,Father,0.5,0.7777777777777778,14,28,Bad,0,M,low,low,very low
-477,F,Jordan,Jordan,MiddleSchool,6,A,Geology,S,Father,0.55,0.7474747474747475,25,29,Bad,0,M,low,low,very low
-478,F,Jordan,Jordan,MiddleSchool,6,A,History,F,Father,0.3,0.1717171717171717,14,57,Bad,1,L,medium,high,low
-479,F,Jordan,Jordan,MiddleSchool,6,A,History,S,Father,0.35,0.1414141414141414,23,62,Bad,1,L,high,high,medium
+0,M,KW,KuwaIT,lowerlevel,2,A,IT,F,Father,0.15,0.16161616161616163,2,20,Good,0,M,very low,B,P
+1,M,KW,KuwaIT,lowerlevel,2,A,IT,F,Father,0.2,0.20202020202020202,3,25,Good,0,M,low,B,P
+2,M,KW,KuwaIT,lowerlevel,2,A,IT,F,Father,0.1,0.0707070707070707,0,30,Bad,1,L,low,B,P
+3,M,KW,KuwaIT,lowerlevel,2,A,IT,F,Father,0.3,0.25252525252525254,5,35,Bad,1,L,low,C,P
+4,M,KW,KuwaIT,lowerlevel,2,A,IT,F,Father,0.4,0.5050505050505051,12,50,Bad,1,M,medium,D,Q
+5,F,KW,KuwaIT,lowerlevel,2,A,IT,F,Father,0.42,0.30303030303030304,13,70,Bad,1,M,high,D,S
+6,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.35,0.12121212121212122,0,17,Bad,1,L,very low,B,
+7,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.5,0.10101010101010101,15,22,Good,0,M,low,B,P
+8,F,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.12,0.21212121212121213,16,50,Good,0,M,medium,D,Q
+9,F,KW,KuwaIT,MiddleSchool,5,B,IT,F,Father,0.7,0.8080808080808081,25,70,Good,0,M,high,D,S
+10,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.5,0.8888888888888888,30,80,Good,0,H,very high,E,T
+11,M,KW,KuwaIT,MiddleSchool,5,B,Math,F,Father,0.19,0.06060606060606061,19,12,Good,0,M,very low,A,
+12,M,KW,KuwaIT,lowerlevel,2,A,IT,F,Father,0.05,0.010101010101010102,0,11,Bad,1,L,very low,A,
+13,M,lebanon,lebanon,MiddleSchool,6,A,Math,F,Father,0.2,0.1414141414141414,12,19,Bad,1,L,very low,B,P
+14,F,KW,KuwaIT,MiddleSchool,6,A,Math,F,Mum,0.62,0.7070707070707071,44,60,Bad,1,H,high,D,R
+15,F,KW,KuwaIT,MiddleSchool,4,A,IT,F,Father,0.3,0.40404040404040403,22,66,Good,0,M,high,D,R
+16,M,KW,KuwaIT,MiddleSchool,5,B,IT,F,Father,0.36,0.30303030303030304,20,80,Bad,1,M,very high,E,T
+17,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.55,0.13131313131313133,35,90,Bad,1,M,very high,E,T
+18,F,KW,KuwaIT,MiddleSchool,5,A,IT,F,Mum,0.46831196581196577,0.15151515151515152,36,96,Good,0,M,very high,E,
+19,M,KW,KuwaIT,MiddleSchool,5,B,IT,F,Mum,0.7,0.5050505050505051,40,99,Good,0,H,very high,E,
+20,F,KW,KuwaIT,MiddleSchool,5,A,IT,F,Father,0.6,0.6060606060606061,33,90,Bad,1,M,very high,E,T
+21,F,KW,KuwaIT,MiddleSchool,5,B,IT,F,Father,0.1,0.12121212121212122,4,80,Bad,0,M,very high,E,T
+22,M,KW,KuwaIT,MiddleSchool,5,A,IT,F,Father,0.15,0.21212121212121213,2,90,Bad,0,M,very high,E,T
+23,M,KW,KuwaIT,MiddleSchool,5,A,IT,F,Father,0.02,0.0,2,50,Bad,1,L,medium,D,Q
+24,M,KW,KuwaIT,MiddleSchool,5,B,IT,F,Father,0.0,0.020202020202020204,3,70,Good,1,L,high,D,S
+25,M,KW,KuwaIT,MiddleSchool,5,A,IT,F,Father,0.08,0.0707070707070707,30,40,Good,1,L,low,C,Q
+26,M,KW,KuwaIT,MiddleSchool,5,B,IT,F,Father,0.19,0.1919191919191919,25,40,Bad,0,M,low,C,Q
+27,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,F,Father,0.25,0.15151515151515152,12,33,Bad,1,L,low,C,P
+28,M,KW,KuwaIT,MiddleSchool,6,A,Science,F,Father,0.75,0.8585858585858586,52,43,Good,0,M,medium,C,Q
+29,F,KW,KuwaIT,MiddleSchool,6,A,Arabic,F,Father,0.3,0.9090909090909091,33,35,Bad,0,M,low,C,P
+30,F,KW,KuwaIT,MiddleSchool,6,A,Arabic,F,Father,0.35,0.8080808080808081,50,70,Good,0,H,high,D,S
+31,M,KW,KuwaIT,MiddleSchool,5,A,IT,F,Father,0.04,0.050505050505050504,40,16,Good,1,L,very low,B,
+32,F,KW,KuwaIT,lowerlevel,5,A,IT,F,Father,0.02,0.1919191919191919,10,50,Good,1,L,medium,D,Q
+33,M,KW,KuwaIT,lowerlevel,3,A,English,F,Father,0.08,0.2222222222222222,9,40,Bad,1,L,low,C,Q
+34,M,KW,KuwaIT,MiddleSchool,5,B,Science,F,Father,0.12,0.1111111111111111,8,40,Bad,1,L,low,C,Q
+36,M,KW,KuwaIT,MiddleSchool,5,B,Science,F,Mum,0.08,0.06060606060606061,4,22,Good,1,L,low,B,P
+37,F,Egypt,Egypt,MiddleSchool,5,A,IT,F,Father,0.45,0.5454545454545454,26,90,Good,0,M,very high,E,T
+38,M,KW,KuwaIT,MiddleSchool,4,A,IT,F,Father,0.0,0.0,0,4,Bad,1,L,very low,A,
+39,F,SaudiArabia,SaudiArabia,MiddleSchool,5,B,Science,F,Father,0.5,0.9090909090909091,37,70,Good,0,M,high,D,S
+40,F,KW,KuwaIT,MiddleSchool,5,A,IT,F,Father,0.14,0.13131313131313133,3,70,Bad,1,L,high,D,S
+41,M,KW,KuwaIT,MiddleSchool,5,A,IT,F,Father,0.19,0.20202020202020202,16,50,Good,0,M,medium,D,Q
+42,M,KW,KuwaIT,HighSchool,7,A,IT,F,Father,0.1,0.12121212121212122,7,33,Good,1,L,low,C,P
+43,F,KW,KuwaIT,HighSchool,7,A,IT,F,Father,0.3,0.35353535353535354,28,90,Good,0,M,very high,E,T
+44,F,KW,KuwaIT,HighSchool,7,A,IT,F,Father,0.33,0.3333333333333333,30,90,Bad,0,M,very high,E,T
+45,M,KW,KuwaIT,MiddleSchool,5,A,Quran,F,Father,0.2,0.12121212121212122,15,70,Good,1,L,high,D,S
+46,M,KW,KuwaIT,lowerlevel,3,A,English,F,Father,0.07,0.10101010101010101,1,30,Bad,1,L,low,B,P
+47,F,KW,KuwaIT,HighSchool,10,A,English,F,Mum,0.7,0.04040404040404041,39,90,Good,0,H,very high,E,T
+49,F,KW,KuwaIT,HighSchool,10,A,English,F,Father,0.29,0.3939393939393939,50,77,Good,0,M,high,E,T
+50,F,KW,KuwaIT,HighSchool,10,A,English,F,Father,0.2,0.1414141414141414,12,70,Bad,1,L,high,D,S
+51,M,KW,KuwaIT,HighSchool,10,A,English,F,Father,0.39,0.15151515151515152,16,50,Good,1,L,medium,D,Q
+52,F,KW,KuwaIT,HighSchool,10,A,English,F,Father,0.55,0.9090909090909091,16,40,Bad,0,M,low,C,Q
+53,F,KW,KuwaIT,HighSchool,9,A,Science,F,Mum,0.49,0.7070707070707071,19,75,Good,0,H,high,E,S
+54,M,KW,KuwaIT,HighSchool,10,A,English,F,Mum,0.12,0.5050505050505051,8,30,Bad,1,L,low,B,P
+55,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.16,0.1414141414141414,6,20,Good,1,L,very low,B,P
+56,M,USA,USA,MiddleSchool,6,B,Math,F,Father,0.19,0.050505050505050504,4,1,Good,1,L,very low,A,
+57,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.05,0.020202020202020204,6,5,Good,1,L,very low,A,
+58,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.28,0.6060606060606061,19,50,Good,0,M,medium,D,Q
+59,F,USA,USA,MiddleSchool,5,A,Math,F,Father,0.27,0.2222222222222222,22,40,Good,0,M,low,C,Q
+60,F,Jordan,Jordan,lowerlevel,3,A,English,F,Mum,0.21,0.10101010101010101,28,20,Good,1,L,very low,B,P
+61,M,KW,KuwaIT,HighSchool,8,A,IT,F,Father,0.5,0.7070707070707071,32,40,Good,0,M,low,C,Q
+62,M,venzuela,venzuela,HighSchool,8,A,IT,F,Mum,0.8,0.9090909090909091,70,80,Good,0,H,very high,E,T
+63,M,KW,KuwaIT,HighSchool,8,A,IT,F,Father,0.17,0.13131313131313133,16,12,Bad,0,M,very low,A,
+64,M,KW,KuwaIT,HighSchool,8,A,IT,F,Father,0.0,0.050505050505050504,7,2,Bad,1,L,very low,A,
+66,F,KW,KuwaIT,HighSchool,10,A,English,F,Father,0.25,0.10101010101010101,19,30,Bad,1,M,low,B,P
+67,F,USA,USA,HighSchool,10,A,English,F,Mum,0.65,0.7575757575757576,23,80,Good,0,H,very high,E,T
+68,F,USA,USA,HighSchool,10,A,IT,F,Mum,0.7,0.696969696969697,35,30,Good,0,H,low,B,P
+69,M,Jordan,Jordan,MiddleSchool,5,A,IT,F,Father,0.39,0.40404040404040403,11,33,Bad,0,M,low,C,P
+70,M,Jordan,Jordan,MiddleSchool,5,A,IT,F,Father,0.22,0.30303030303030304,10,12,Good,1,L,very low,A,
+71,M,KW,KuwaIT,MiddleSchool,5,A,IT,F,Father,0.29,0.2222222222222222,9,20,Good,0,M,very low,B,P
+72,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.11,0.020202020202020204,2,8,Bad,0,L,very low,A,
+73,F,KW,KuwaIT,MiddleSchool,5,A,English,F,Father,0.19,0.30303030303030304,26,19,Bad,1,M,very low,B,P
+74,M,KW,KuwaIT,MiddleSchool,5,B,IT,F,Father,0.12,0.0,6,13,Bad,0,L,very low,A,
+75,M,Jordan,Jordan,MiddleSchool,5,A,Quran,F,Mum,0.5,0.9090909090909091,29,60,Good,0,M,high,D,R
+76,M,Iran,Iran,HighSchool,7,A,IT,F,Mum,0.15,0.7070707070707071,37,44,Good,0,M,medium,C,Q
+77,M,KW,KuwaIT,HighSchool,7,A,IT,F,Father,0.2,0.8080808080808081,33,33,Good,0,M,low,C,P
+78,M,KW,KuwaIT,HighSchool,9,A,Quran,F,Father,0.13,0.030303030303030304,11,9,Bad,1,L,very low,A,
+80,M,KW,KuwaIT,MiddleSchool,5,A,Math,F,Father,0.08,0.15151515151515152,10,40,Bad,0,L,low,C,Q
+81,M,KW,KuwaIT,lowerlevel,1,A,IT,F,Father,0.08,0.25252525252525254,1,70,Bad,1,L,high,D,S
+82,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.07,0.050505050505050504,2,80,Good,1,L,very high,E,T
+83,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.07,0.04040404040404041,10,50,Good,1,M,medium,D,Q
+84,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.5,0.7070707070707071,50,10,Good,1,H,very low,A,
+85,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.01,0.0,1,12,Bad,1,L,very low,A,
+86,M,SaudiArabia,SaudiArabia,lowerlevel,1,B,IT,F,Father,0.7,0.12121212121212122,40,50,Good,0,H,medium,D,Q
+87,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.19,0.7070707070707071,3,50,Bad,0,L,medium,D,Q
+88,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.03,0.12121212121212122,4,33,Bad,0,L,low,C,P
+89,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.05,0.20202020202020202,1,50,Good,1,L,medium,D,Q
+90,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.04,0.08080808080808081,10,60,Good,1,L,high,D,R
+91,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.8,0.9090909090909091,55,19,Good,0,H,very low,B,P
+92,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.5,0.7070707070707071,19,15,Good,0,H,very low,A,
+93,M,USA,USA,lowerlevel,1,B,IT,F,Father,0.55,0.898989898989899,40,40,Good,0,H,low,C,Q
+94,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.8,0.4444444444444444,35,10,Good,1,L,very low,A,
+95,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,1.0,0.8080808080808081,2,70,Bad,0,H,high,D,S
+96,F,KW,KuwaIT,lowerlevel,1,C,IT,F,Father,0.14,0.6060606060606061,11,75,Good,0,H,high,E,S
+97,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.06,0.020202020202020204,38,12,Bad,0,M,very low,A,
+98,F,KW,KuwaIT,lowerlevel,1,C,IT,F,Father,0.1,0.030303030303030304,0,30,Bad,0,M,low,B,P
+99,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.5,0.0707070707070707,9,50,Bad,1,M,medium,D,Q
+100,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.5,0.9090909090909091,40,90,Bad,0,M,very high,E,T
+101,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Mum,0.7,0.9292929292929293,50,7,Good,0,H,very low,A,
+102,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.02,0.06060606060606061,2,8,Bad,1,L,very low,A,
+103,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.01,0.0707070707070707,6,10,Bad,1,L,very low,A,
+104,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.0,0.12121212121212122,3,3,Good,1,M,very low,A,
+105,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.0,0.0,5,80,Good,1,L,very high,E,T
+106,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.12,0.26262626262626265,7,40,Good,0,M,low,C,Q
+107,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.7,0.9090909090909091,41,33,Bad,0,H,low,C,P
+108,M,SaudiArabia,SaudiArabia,lowerlevel,1,B,IT,F,Father,0.07,0.12121212121212122,5,3,Bad,1,M,very low,A,
+109,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.9,0.7070707070707071,30,14,Bad,0,M,very low,A,
+111,M,KW,KuwaIT,lowerlevel,1,C,IT,F,Father,0.77,0.8080808080808081,51,80,Good,0,M,very high,E,T
+112,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.02,0.050505050505050504,3,50,Bad,1,L,medium,D,Q
+113,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.25,0.2727272727272727,0,69,Bad,1,L,high,D,R
+114,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.11,0.020202020202020204,0,50,Bad,1,L,medium,D,Q
+115,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.0,0.08080808080808081,11,70,Good,1,L,high,D,S
+116,F,KW,KuwaIT,lowerlevel,1,C,IT,F,Mum,0.77,0.8080808080808081,12,19,Good,1,M,very low,B,P
+117,F,KW,KuwaIT,lowerlevel,1,C,IT,F,Mum,0.25,0.29292929292929293,40,17,Good,0,H,very low,B,
+118,F,KW,KuwaIT,lowerlevel,1,C,IT,F,Mum,0.24,0.35353535353535354,23,22,Good,1,M,low,B,P
+119,M,KW,KuwaIT,lowerlevel,1,C,IT,F,Father,0.6,0.6060606060606061,3,60,Bad,0,M,high,D,R
+120,M,KW,KuwaIT,lowerlevel,1,C,IT,F,Mum,0.21,0.12121212121212122,0,50,Good,0,M,medium,D,Q
+121,M,KW,KuwaIT,lowerlevel,1,C,IT,F,Mum,0.0,0.04040404040404041,8,30,Bad,1,L,low,B,P
+122,F,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.66,0.9090909090909091,55,12,Good,1,M,very low,A,
+123,F,lebanon,lebanon,lowerlevel,1,B,IT,F,Father,0.7,0.98989898989899,7,5,Good,0,M,very low,A,
+124,M,KW,KuwaIT,lowerlevel,1,C,IT,F,Father,0.0,0.06060606060606061,4,15,Bad,0,L,very low,A,
+125,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.12,0.30303030303030304,0,17,Good,1,L,very low,B,
+126,F,Iran,Iran,lowerlevel,1,C,IT,F,Father,0.02,0.09090909090909091,7,55,Good,0,M,medium,D,Q
+127,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.55,0.3333333333333333,6,9,Bad,1,L,very low,A,
+128,M,KW,KuwaIT,lowerlevel,1,C,IT,F,Father,0.12,0.10101010101010101,20,16,Bad,0,L,very low,B,
+129,M,KW,KuwaIT,lowerlevel,1,B,IT,F,Father,0.7,0.9090909090909091,2,2,Good,0,L,very low,A,
+130,F,KW,KuwaIT,lowerlevel,1,C,IT,F,Father,0.07,0.09090909090909091,5,30,Bad,1,L,low,B,P
+131,M,Jordan,Jordan,lowerlevel,1,C,IT,F,Father,0.8,0.42424242424242425,20,50,Good,0,M,medium,D,Q
+132,M,KW,KuwaIT,lowerlevel,1,C,IT,S,Father,0.0,0.030303030303030304,10,3,Bad,1,L,very low,A,
+133,M,KW,KuwaIT,lowerlevel,1,A,IT,S,Father,0.12,0.6060606060606061,0,70,Good,1,L,high,D,S
+134,M,KW,KuwaIT,MiddleSchool,5,A,Quran,S,Father,0.8,0.8080808080808081,15,70,Good,0,H,high,D,S
+136,F,KW,USA,HighSchool,9,A,Quran,S,Mum,0.7,0.8080808080808081,95,70,Good,0,H,high,D,S
+137,F,KW,USA,HighSchool,9,A,Quran,F,Mum,0.6,0.8080808080808081,50,40,Bad,0,M,low,C,Q
+138,F,Jordan,Egypt,MiddleSchool,5,A,Quran,F,Mum,1.0,0.8080808080808081,95,90,Bad,0,H,very high,E,T
+139,M,Jordan,USA,MiddleSchool,5,A,Quran,F,Mum,1.0,0.8585858585858586,85,70,Bad,0,M,high,D,S
+140,M,Tunis,Tunis,MiddleSchool,5,A,Quran,F,Father,0.1,0.6060606060606061,5,20,Bad,1,L,very low,B,P
+141,M,Tunis,Tunis,MiddleSchool,5,A,Quran,S,Father,0.19,0.6565656565656566,50,10,Bad,1,L,very low,A,
+142,M,Tunis,Tunis,MiddleSchool,5,A,Quran,S,Father,0.1,0.7575757575757576,55,11,Good,0,M,very low,A,
+143,M,KW,KuwaIT,MiddleSchool,5,A,Quran,S,Father,0.8,0.9090909090909091,55,19,Good,0,H,very low,B,P
+144,M,KW,KuwaIT,MiddleSchool,5,A,Quran,S,Father,0.1,0.10101010101010101,15,19,Bad,1,L,very low,B,P
+145,M,Tunis,SaudiArabia,MiddleSchool,5,A,Quran,S,Father,0.7,0.7575757575757576,55,11,Bad,0,M,very low,A,
+146,F,lebanon,lebanon,MiddleSchool,5,A,Quran,S,Mum,1.0,0.7575757575757576,50,70,Good,0,H,high,D,S
+147,F,lebanon,lebanon,MiddleSchool,5,A,Quran,S,Father,0.1,0.797979797979798,30,30,Bad,0,M,low,B,P
+148,F,Jordan,Jordan,MiddleSchool,5,A,Quran,S,Father,0.6,0.5555555555555556,30,40,Bad,0,M,low,C,Q
+149,F,Jordan,lebanon,MiddleSchool,5,A,Quran,S,Mum,1.0,0.7575757575757576,50,70,Bad,0,H,high,D,S
+150,M,SaudiArabia,SaudiArabia,HighSchool,9,A,Quran,S,Father,0.8,0.8080808080808081,51,59,Good,0,H,medium,D,R
+151,M,SaudiArabia,USA,HighSchool,9,A,Science,S,Father,0.23,0.6363636363636364,71,89,Good,0,M,very high,E,T
+152,F,SaudiArabia,USA,HighSchool,9,B,Science,S,Father,1.0,0.9191919191919192,98,40,Bad,0,H,low,C,Q
+153,M,SaudiArabia,USA,HighSchool,9,B,Spanish,S,Father,0.1,0.5151515151515151,40,40,Bad,1,L,low,C,Q
+154,M,SaudiArabia,USA,HighSchool,9,B,English,S,Father,0.7,0.5050505050505051,33,41,Bad,1,M,medium,C,Q
+155,M,SaudiArabia,USA,HighSchool,9,B,Math,S,Father,0.7,0.5858585858585859,73,91,Bad,0,H,very high,E,T
+156,F,Tunis,USA,HighSchool,9,B,French,S,Father,0.7,0.5050505050505051,30,49,Good,0,M,medium,C,Q
+157,M,Tunis,Tunis,HighSchool,9,B,Science,S,Father,0.7,0.5050505050505051,33,40,Good,0,M,low,C,Q
+158,M,Tunis,KuwaIT,MiddleSchool,5,B,Science,S,Father,0.22,0.5151515151515151,48,10,Bad,1,L,very low,A,
+159,F,KW,KuwaIT,MiddleSchool,5,B,Science,S,Father,0.62,0.6868686868686869,48,80,Good,0,M,very high,E,T
+160,F,Jordan,Jordan,MiddleSchool,5,B,Science,S,Mum,0.82,0.898989898989899,58,50,Good,0,H,medium,D,Q
+161,M,Jordan,Jordan,MiddleSchool,5,B,Science,S,Mum,0.72,0.8080808080808081,58,66,Bad,0,M,high,D,R
+162,F,Jordan,Jordan,lowerlevel,1,B,French,S,Mum,0.7,0.8282828282828283,3,73,Bad,0,H,high,E,S
+163,F,Jordan,USA,lowerlevel,1,B,French,S,Mum,0.6,0.8282828282828283,93,43,Bad,1,M,medium,C,Q
+164,M,Jordan,Jordan,lowerlevel,1,B,French,S,Mum,0.55,0.7272727272727273,83,14,Good,1,M,very low,A,
+165,F,Morocco,Morocco,lowerlevel,1,B,French,S,Mum,0.72,0.6565656565656566,73,66,Good,0,H,high,D,R
+166,M,KW,KuwaIT,lowerlevel,1,B,French,S,Mum,0.51,0.8282828282828283,53,43,Bad,0,M,medium,C,Q
+167,M,Tunis,Tunis,lowerlevel,1,B,French,S,Mum,0.8,0.9292929292929293,83,43,Good,0,H,medium,C,Q
+168,M,KW,KuwaIT,lowerlevel,1,B,French,S,Mum,0.6,0.5252525252525253,23,33,Good,0,H,low,C,P
+169,M,KW,KuwaIT,lowerlevel,1,B,French,S,Mum,0.3,0.12121212121212122,29,23,Bad,0,M,low,B,P
+171,M,KW,KuwaIT,lowerlevel,1,B,French,S,Mum,0.6,0.5252525252525253,23,33,Good,0,M,low,C,P
+172,M,Iran,Iran,lowerlevel,1,B,French,S,Mum,0.2,0.2222222222222222,53,13,Good,1,L,very low,A,
+173,M,Syria,Syria,lowerlevel,1,B,French,S,Mum,0.2,0.5252525252525253,23,33,Good,1,L,low,C,P
+174,F,Jordan,Jordan,lowerlevel,1,B,French,S,Father,0.5,0.6262626262626263,73,43,Bad,1,M,medium,C,Q
+175,M,Iran,Iran,lowerlevel,1,B,French,S,Father,0.1,0.020202020202020204,13,53,Bad,1,L,medium,D,Q
+176,M,Tunis,Tunis,lowerlevel,1,B,French,S,Mum,0.6,0.5252525252525253,23,33,Bad,0,H,low,C,P
+177,F,USA,USA,lowerlevel,1,B,French,S,Mum,0.15,0.5252525252525253,83,11,Bad,0,M,very low,A,
+178,F,lebanon,lebanon,lowerlevel,1,B,French,S,Mum,0.8,0.42424242424242425,33,13,Bad,0,H,very low,A,
+179,M,lebanon,lebanon,lowerlevel,1,B,French,S,Mum,0.4,0.5151515151515151,20,33,Bad,0,M,low,C,P
+180,F,SaudiArabia,SaudiArabia,lowerlevel,1,B,French,S,Father,0.6,0.7070707070707071,63,93,Bad,0,H,very high,E,T
+181,M,Jordan,Jordan,lowerlevel,1,B,French,S,Father,0.5,0.6262626262626263,13,33,Bad,1,L,low,C,P
+182,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Mum,0.85,0.7575757575757576,62,53,Bad,0,H,medium,D,Q
+183,F,lebanon,lebanon,MiddleSchool,6,A,Arabic,S,Father,0.25,0.15151515151515152,32,53,Bad,0,M,medium,D,Q
+184,M,lebanon,lebanon,MiddleSchool,6,A,Arabic,S,Mum,0.1,0.35353535353535354,30,13,Bad,1,L,very low,A,
+185,M,lebanon,Jordan,MiddleSchool,6,A,Arabic,S,Mum,0.87,0.6565656565656566,82,33,Good,0,H,low,C,P
+186,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Mum,0.85,0.15151515151515152,22,53,Good,0,M,medium,D,Q
+187,F,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Father,0.8,0.7171717171717171,52,51,Good,0,M,medium,D,Q
+188,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Mum,0.75,0.7171717171717171,72,53,Good,0,H,medium,D,Q
+189,F,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Father,0.85,0.6666666666666666,12,23,Bad,0,M,low,B,P
+190,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Father,0.23,0.25252525252525254,32,53,Bad,0,L,medium,D,Q
+191,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Father,0.15,0.25252525252525254,37,13,Good,1,L,very low,A,
+192,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Mum,0.95,0.9191919191919192,62,53,Good,0,M,medium,D,Q
+193,M,Morocco,Morocco,MiddleSchool,6,A,Arabic,S,Mum,0.81,0.7575757575757576,62,53,Bad,0,M,medium,D,Q
+194,M,Morocco,Morocco,MiddleSchool,6,A,Arabic,S,Mum,0.53,0.7575757575757576,72,23,Bad,0,M,low,B,P
+195,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Father,0.15,0.43434343434343436,42,33,Good,0,M,low,C,P
+196,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Mum,0.92,0.6565656565656566,62,53,Good,0,H,medium,D,Q
+197,M,KW,KuwaIT,MiddleSchool,6,A,Arabic,S,Mum,0.83,0.7575757575757576,62,53,Bad,0,H,medium,D,Q
+198,M,Morocco,Morocco,MiddleSchool,6,B,Arabic,S,Father,0.27,0.15151515151515152,42,53,Bad,1,L,medium,D,Q
+199,M,KW,KuwaIT,MiddleSchool,6,B,Arabic,S,Father,0.45,0.9595959595959596,12,13,Bad,0,M,very low,A,
+200,M,KW,KuwaIT,MiddleSchool,6,B,Arabic,S,Mum,0.15,0.9090909090909091,52,83,Bad,0,H,very high,E,T
+201,F,lebanon,lebanon,MiddleSchool,6,A,Arabic,S,Mum,0.45,0.5858585858585859,52,43,Good,0,H,medium,C,Q
+202,M,KW,KuwaIT,MiddleSchool,6,B,Arabic,S,Father,0.25,0.050505050505050504,12,33,Good,0,M,low,C,P
+203,F,KW,KuwaIT,MiddleSchool,6,B,Arabic,S,Father,0.22,0.5151515151515151,42,40,Bad,0,M,low,C,Q
+204,M,Jordan,Jordan,MiddleSchool,6,B,Arabic,S,Father,0.29,0.10101010101010101,12,24,Bad,1,L,low,B,P
+205,F,SaudiArabia,SaudiArabia,MiddleSchool,6,B,Arabic,S,Mum,0.72,0.5151515151515151,42,24,Bad,1,H,low,B,P
+206,M,KW,KuwaIT,MiddleSchool,6,B,Arabic,S,Father,0.67,0.31313131313131315,42,14,Good,0,M,very low,A,
+207,M,KW,KuwaIT,MiddleSchool,6,C,Spanish,S,Father,0.17,0.21212121212121213,42,14,Good,0,M,very low,A,
+208,M,Tunis,Tunis,MiddleSchool,6,C,Spanish,S,Mum,0.27,0.41414141414141414,49,14,Bad,0,M,very low,A,
+209,M,KW,KuwaIT,MiddleSchool,6,C,Spanish,S,Father,0.7,0.8181818181818182,39,84,Bad,0,M,very high,E,T
+210,M,Jordan,SaudiArabia,MiddleSchool,6,C,Spanish,S,Mum,0.27,0.9090909090909091,82,14,Good,0,H,very low,A,
+211,M,KW,KuwaIT,MiddleSchool,6,C,Spanish,S,Father,0.17,0.6161616161616161,42,14,Bad,0,M,very low,A,
+212,M,Tunis,Tunis,MiddleSchool,6,C,Spanish,S,Mum,0.87,0.8181818181818182,42,19,Good,0,H,very low,B,P
+213,M,Tunis,Tunis,MiddleSchool,6,C,Spanish,S,Father,0.07,0.6161616161616161,22,14,Bad,1,L,very low,A,
+214,M,KW,KuwaIT,MiddleSchool,6,C,Spanish,S,Father,0.17,0.5050505050505051,2,4,Bad,1,L,very low,A,
+215,M,KW,KuwaIT,MiddleSchool,6,C,Spanish,S,Father,0.05,0.21212121212121213,42,14,Good,1,L,very low,A,
+216,M,Iran,Iran,MiddleSchool,6,C,Spanish,S,Mum,0.27,0.41414141414141414,32,61,Bad,1,M,high,D,R
+217,F,Jordan,KuwaIT,MiddleSchool,6,C,Spanish,S,Father,0.87,0.8888888888888888,40,10,Good,0,M,very low,A,
+218,M,KW,KuwaIT,MiddleSchool,6,C,Spanish,S,Mum,0.96,0.6161616161616161,42,94,Bad,0,H,very high,E,
+219,M,KW,KuwaIT,MiddleSchool,6,C,Spanish,S,Mum,0.57,0.5151515151515151,46,34,Good,0,M,low,C,P
+220,M,lebanon,lebanon,MiddleSchool,6,C,Spanish,S,Father,0.77,0.696969696969697,41,13,Good,0,M,very low,A,
+221,M,lebanon,lebanon,MiddleSchool,6,C,Spanish,S,Father,0.8,0.5151515151515151,40,24,Good,0,M,low,B,P
+222,M,KW,KuwaIT,MiddleSchool,6,B,Spanish,S,Father,0.62,0.6161616161616161,82,40,Bad,0,M,low,C,Q
+223,M,KW,KuwaIT,MiddleSchool,6,A,Spanish,S,Mum,0.72,0.8383838383838383,12,90,Good,0,H,very high,E,T
+224,M,KW,KuwaIT,MiddleSchool,6,B,Spanish,S,Mum,0.87,0.8181818181818182,22,70,Bad,0,H,high,D,S
+225,M,KW,KuwaIT,MiddleSchool,6,A,Spanish,S,Mum,0.72,0.9090909090909091,12,30,Bad,0,M,low,B,P
+226,M,KW,KuwaIT,MiddleSchool,6,B,Spanish,S,Father,0.02,0.1111111111111111,62,30,Bad,0,L,low,B,P
+227,M,KW,KuwaIT,MiddleSchool,6,A,Spanish,S,Father,0.05,0.030303030303030304,2,10,Good,0,L,very low,A,
+228,M,KW,KuwaIT,HighSchool,9,B,Math,S,Mum,0.73,0.8484848484848485,77,81,Good,1,H,very high,E,T
+229,M,KW,KuwaIT,MiddleSchool,6,A,Spanish,S,Father,0.05,0.1717171717171717,21,10,Bad,1,L,very low,A,
+230,M,Iran,Iran,MiddleSchool,6,A,Spanish,S,Mum,0.51,0.42424242424242425,12,29,Bad,1,M,low,B,P
+231,M,Syria,Jordan,MiddleSchool,6,A,Spanish,S,Father,0.09,0.0707070707070707,21,20,Good,1,L,very low,B,P
+232,M,Syria,Syria,MiddleSchool,5,A,Quran,F,Father,0.19,0.7272727272727273,15,50,Good,1,M,medium,D,Q
+233,F,Jordan,Jordan,MiddleSchool,5,B,Science,S,Mum,0.32,0.8080808080808081,58,46,Good,1,M,medium,C,Q
+234,M,KW,KuwaIT,MiddleSchool,5,B,Science,S,Mum,0.32,0.6060606060606061,58,66,Good,1,M,high,D,R
+235,M,KW,KuwaIT,MiddleSchool,5,B,Science,S,Father,0.12,0.08080808080808081,18,26,Bad,1,L,low,B,P
+236,M,Jordan,Jordan,MiddleSchool,5,B,Science,S,Father,0.52,0.10101010101010101,13,6,Bad,1,L,very low,A,
+237,M,KW,KuwaIT,MiddleSchool,5,B,Science,S,Father,0.72,0.8080808080808081,58,66,Good,1,M,high,D,R
+238,F,KW,KuwaIT,MiddleSchool,5,B,Science,S,Mum,0.72,0.8080808080808081,58,66,Good,1,M,high,D,R
+239,M,Egypt,Egypt,MiddleSchool,5,B,Science,S,Mum,0.92,0.8080808080808081,88,76,Good,0,H,high,E,T
+240,M,KW,KuwaIT,MiddleSchool,5,B,Science,S,Mum,0.72,0.8080808080808081,98,96,Bad,0,H,very high,E,
+241,M,Egypt,Egypt,MiddleSchool,5,B,Science,S,Father,0.72,0.8080808080808081,58,86,Good,0,M,very high,E,T
+242,M,KW,KuwaIT,MiddleSchool,5,B,Science,S,Father,0.22,0.20202020202020202,18,6,Bad,1,L,very low,A,
+243,M,Egypt,KuwaIT,MiddleSchool,5,B,Science,S,Father,0.12,0.20202020202020202,38,46,Bad,1,M,medium,C,Q
+244,M,KW,KuwaIT,MiddleSchool,5,B,IT,S,Mum,0.7,0.9292929292929293,83,85,Bad,0,H,very high,E,T
+245,F,KW,KuwaIT,MiddleSchool,4,A,IT,S,Father,0.5,0.40404040404040403,52,66,Bad,0,M,high,D,R
+246,F,KW,KuwaIT,MiddleSchool,4,A,Science,S,Father,0.8,0.9494949494949495,62,77,Good,0,H,high,E,T
+247,F,KW,KuwaIT,MiddleSchool,4,A,Math,S,Father,0.87,0.48484848484848486,82,96,Bad,1,M,very high,E,
+248,F,KW,KuwaIT,MiddleSchool,4,A,Quran,S,Father,0.7,0.40404040404040403,2,16,Bad,1,L,very low,B,
+249,M,KW,KuwaIT,lowerlevel,2,A,IT,S,Father,0.65,0.8686868686868687,62,40,Good,1,M,low,C,Q
+250,M,KW,KuwaIT,lowerlevel,2,A,Math,S,Father,0.15,0.06060606060606061,32,40,Good,0,H,low,C,Q
+251,M,Egypt,Egypt,lowerlevel,2,A,English,S,Mum,0.19,0.7474747474747475,32,17,Good,1,L,very low,B,
+252,F,KW,KuwaIT,lowerlevel,2,A,Science,S,Father,0.69,0.7676767676767676,82,94,Bad,0,M,very high,E,
+253,M,KW,KuwaIT,lowerlevel,2,A,Arabic,S,Father,0.39,0.26262626262626265,12,44,Bad,1,L,medium,C,Q
+254,M,KW,KuwaIT,lowerlevel,2,A,English,S,Father,0.59,0.9797979797979798,42,70,Good,0,H,high,D,S
+255,M,KW,KuwaIT,lowerlevel,2,A,History,S,Father,0.1,0.1717171717171717,12,40,Good,0,H,low,C,Q
+256,F,KW,KuwaIT,lowerlevel,2,A,History,S,Mum,0.8,0.8787878787878788,72,60,Good,0,H,high,D,R
+257,F,KW,KuwaIT,lowerlevel,2,A,History,S,Father,0.7,1.0,66,65,Good,0,M,high,D,R
+258,F,KW,KuwaIT,lowerlevel,2,A,History,S,Father,0.8,0.9797979797979798,86,95,Good,0,M,very high,E,
+259,M,KW,KuwaIT,lowerlevel,2,A,English,S,Mum,0.69,0.3434343434343434,12,17,Bad,1,L,very low,B,
+260,M,KW,KuwaIT,lowerlevel,2,A,History,S,Father,0.1,0.1717171717171717,12,14,Bad,1,L,very low,A,
+261,M,KW,KuwaIT,lowerlevel,2,A,History,S,Father,0.61,0.9797979797979798,82,64,Bad,1,M,high,D,R
+262,F,KW,KuwaIT,lowerlevel,2,A,History,S,Mum,0.21,0.2727272727272727,52,34,Good,1,M,low,C,P
+263,M,Egypt,Egypt,lowerlevel,2,A,Math,S,Mum,0.49,0.9494949494949495,42,7,Bad,1,M,very low,A,
+264,F,Jordan,Jordan,MiddleSchool,4,A,English,F,Mum,0.7,0.6464646464646465,42,32,Bad,0,M,low,C,P
+265,F,Jordan,Jordan,MiddleSchool,4,A,English,S,Mum,0.79,0.8484848484848485,82,37,Bad,0,H,low,C,Q
+266,M,Jordan,Jordan,MiddleSchool,4,A,English,F,Father,0.19,0.8080808080808081,12,17,Good,1,M,very low,B,
+267,M,Jordan,Jordan,MiddleSchool,4,A,English,S,Father,0.11,0.7070707070707071,32,29,Good,1,M,low,B,P
+268,M,Jordan,Jordan,MiddleSchool,4,A,English,F,Father,0.1,0.08080808080808081,10,10,Bad,1,M,very low,A,
+269,M,Jordan,Jordan,MiddleSchool,4,A,English,S,Father,0.18,0.2828282828282828,40,20,Bad,1,M,very low,B,P
+270,F,Jordan,Jordan,MiddleSchool,4,A,English,F,Mum,0.9,0.8484848484848485,52,30,Good,0,H,low,B,P
+271,F,Jordan,Jordan,MiddleSchool,4,A,English,S,Mum,0.92,0.8181818181818182,32,36,Good,0,M,low,C,P
+272,M,Jordan,Jordan,MiddleSchool,4,A,English,F,Father,0.42,0.21212121212121213,2,16,Bad,0,M,very low,B,
+273,M,Jordan,Jordan,MiddleSchool,4,A,English,S,Father,0.22,0.20202020202020202,6,26,Bad,0,H,low,B,P
+274,F,lebanon,lebanon,MiddleSchool,4,A,English,F,Mum,0.95,0.8282828282828283,82,70,Good,0,H,high,D,S
+275,F,lebanon,lebanon,MiddleSchool,4,A,English,S,Mum,0.9,0.6262626262626263,80,60,Good,0,H,high,D,R
+276,M,Palestine,Jordan,MiddleSchool,4,A,English,F,Mum,0.72,0.21212121212121213,22,26,Good,0,H,low,B,P
+277,M,Palestine,Jordan,MiddleSchool,4,A,English,S,Mum,0.92,0.31313131313131315,42,27,Good,0,H,low,B,P
+278,M,Palestine,Jordan,MiddleSchool,4,A,English,F,Mum,0.82,0.31313131313131315,52,25,Good,0,M,low,B,P
+279,M,Palestine,Jordan,MiddleSchool,4,A,English,S,Mum,0.72,0.41414141414141414,46,27,Good,0,M,low,B,P
+280,M,Iraq,Iraq,MiddleSchool,4,A,English,F,Mum,0.74,0.7171717171717171,56,37,Good,0,H,low,C,Q
+281,M,Iraq,Iraq,MiddleSchool,4,A,English,S,Mum,0.74,0.6060606060606061,56,37,Good,0,H,low,C,Q
+282,F,Jordan,Jordan,MiddleSchool,4,A,English,F,Mum,0.95,0.9494949494949495,72,80,Good,0,H,very high,E,T
+283,F,Jordan,Jordan,MiddleSchool,4,A,English,S,Mum,0.97,0.8787878787878788,82,86,Good,0,H,very high,E,T
+284,M,Jordan,Jordan,MiddleSchool,4,A,English,F,Father,0.4,0.3838383838383838,32,36,Bad,1,M,low,C,P
+285,M,Jordan,Jordan,MiddleSchool,4,A,English,S,Father,0.41,0.3939393939393939,35,39,Bad,1,M,low,C,Q
+286,F,Jordan,Jordan,MiddleSchool,4,A,English,F,Mum,0.51,0.797979797979798,85,89,Good,0,H,very high,E,T
+287,F,Jordan,Jordan,MiddleSchool,4,A,English,S,Mum,0.81,0.797979797979798,91,85,Good,0,H,very high,E,T
+288,M,Palestine,Jordan,MiddleSchool,4,A,English,F,Mum,0.71,0.7070707070707071,65,69,Good,0,M,high,D,R
+289,M,Palestine,Jordan,MiddleSchool,4,A,English,F,Mum,0.75,0.7171717171717171,76,80,Good,0,M,very high,E,T
+290,F,Jordan,Jordan,lowerlevel,2,A,Science,F,Father,0.49,0.36363636363636365,32,44,Bad,1,L,medium,C,Q
+291,F,Jordan,Jordan,lowerlevel,2,A,Science,S,Father,0.42,0.24242424242424243,12,24,Bad,1,L,low,B,P
+292,F,Palestine,Palestine,lowerlevel,2,A,Science,F,Mum,0.9,0.8686868686868687,82,74,Good,0,H,high,E,S
+293,F,Palestine,Palestine,lowerlevel,2,A,Science,S,Mum,0.62,0.6464646464646465,72,84,Good,0,H,very high,E,T
+294,M,Iraq,Iraq,lowerlevel,2,A,Science,F,Father,0.9,0.8686868686868687,82,74,Good,1,M,high,E,S
+295,M,Iraq,Iraq,lowerlevel,2,A,Science,S,Father,0.62,0.6464646464646465,72,84,Good,1,M,very high,E,T
+296,F,Jordan,Jordan,lowerlevel,2,A,Science,F,Mum,0.98,0.8787878787878788,86,84,Good,0,H,very high,E,T
+297,F,Jordan,Jordan,lowerlevel,2,A,Science,S,Mum,0.72,0.7474747474747475,82,89,Good,0,H,very high,E,T
+298,M,Jordan,Jordan,lowerlevel,2,A,Science,F,Father,0.18,0.1717171717171717,26,34,Good,1,M,low,C,P
+299,M,Jordan,Jordan,lowerlevel,2,A,Science,S,Father,0.32,0.1414141414141414,32,29,Good,1,M,low,B,P
+300,M,Jordan,Jordan,lowerlevel,2,A,Science,F,Father,0.1,0.12121212121212122,20,13,Bad,1,L,very low,A,
+301,M,Jordan,Jordan,lowerlevel,2,A,Science,S,Father,0.22,0.3434343434343434,15,9,Bad,1,L,very low,A,
+302,F,Jordan,Jordan,lowerlevel,2,B,Science,F,Mum,0.11,0.20202020202020202,21,23,Bad,0,M,low,B,P
+303,F,Jordan,Jordan,lowerlevel,2,B,Science,S,Mum,0.12,0.4444444444444444,25,39,Bad,0,M,low,C,Q
+304,F,Jordan,Jordan,lowerlevel,2,B,Science,F,Father,0.15,0.5050505050505051,24,43,Bad,0,M,medium,C,Q
+305,F,Jordan,Jordan,lowerlevel,2,B,Science,S,Father,0.32,0.4444444444444444,29,89,Bad,0,M,very high,E,T
+306,M,Jordan,Jordan,lowerlevel,2,B,Science,F,Mum,0.65,0.5959595959595959,74,83,Good,0,H,very high,E,T
+307,M,Jordan,Jordan,lowerlevel,2,B,Science,S,Mum,0.72,0.6464646464646465,59,89,Good,0,H,very high,E,T
+308,M,Palestine,Jordan,lowerlevel,2,B,Science,F,Mum,0.95,0.5757575757575758,74,89,Good,1,M,very high,E,T
+309,M,Palestine,Jordan,lowerlevel,2,B,Science,S,Mum,0.82,0.8484848484848485,79,79,Good,1,M,high,E,T
+310,M,Jordan,Jordan,lowerlevel,2,B,Science,F,Father,0.25,0.29292929292929293,34,33,Good,1,M,low,C,P
+311,M,Jordan,Jordan,lowerlevel,2,B,Science,S,Father,0.42,0.3434343434343434,29,39,Good,1,M,low,C,Q
+312,F,Jordan,Jordan,lowerlevel,2,B,Science,F,Mum,0.55,0.797979797979798,44,43,Good,0,H,medium,C,Q
+313,F,Jordan,Jordan,lowerlevel,2,B,Science,S,Mum,0.62,0.6464646464646465,69,49,Good,0,H,medium,C,Q
+314,F,Jordan,lebanon,lowerlevel,2,B,Science,F,Mum,0.78,0.8888888888888888,74,83,Good,0,H,very high,E,T
+315,F,Jordan,lebanon,lowerlevel,2,B,Science,S,Mum,0.72,0.8484848484848485,89,89,Good,0,H,very high,E,T
+316,M,Jordan,Jordan,lowerlevel,1,A,French,F,Mum,0.46831196581196577,0.9292929292929293,83,23,Good,0,H,low,B,P
+318,F,Jordan,Jordan,lowerlevel,1,A,French,F,Mum,0.6,0.9797979797979798,13,3,Good,0,H,very low,A,
+319,F,Jordan,Jordan,lowerlevel,1,A,French,S,Mum,0.5,0.9595959595959596,23,10,Good,0,H,very low,A,
+320,F,Jordan,Jordan,lowerlevel,1,A,French,F,Mum,0.6,0.8787878787878788,23,11,Good,1,M,very low,A,
+322,M,Jordan,Jordan,lowerlevel,1,A,French,F,Father,0.1,0.15151515151515152,10,21,Bad,1,L,low,B,P
+323,M,Jordan,Jordan,lowerlevel,1,A,French,S,Father,0.3,0.10101010101010101,20,5,Bad,1,L,very low,A,
+324,M,Syria,Syria,lowerlevel,1,A,French,F,Father,0.24,0.35353535353535354,18,31,Bad,0,M,low,C,P
+325,M,Syria,Syria,lowerlevel,1,A,French,S,Father,0.27,0.20202020202020202,33,35,Bad,0,M,low,C,P
+326,M,Jordan,Jordan,lowerlevel,1,A,French,F,Father,0.1,0.15151515151515152,10,21,Bad,1,L,low,B,P
+327,M,Jordan,Jordan,lowerlevel,1,A,French,S,Father,0.3,0.10101010101010101,20,5,Bad,1,L,very low,A,
+328,F,Jordan,Palestine,lowerlevel,1,A,French,F,Mum,0.8,0.7777777777777778,63,83,Good,0,M,very high,E,T
+329,F,Jordan,Palestine,lowerlevel,1,A,French,S,Mum,0.75,0.8585858585858586,73,80,Good,0,M,very high,E,T
+330,M,Jordan,Jordan,lowerlevel,1,A,French,F,Father,0.4,0.0707070707070707,50,41,Good,1,L,medium,C,Q
+331,M,Jordan,Jordan,lowerlevel,1,A,French,S,Father,0.35,0.020202020202020204,29,33,Good,1,L,low,C,P
+332,F,Jordan,Jordan,lowerlevel,1,A,French,F,Mum,0.1,0.9090909090909091,30,21,Good,0,M,low,B,P
+333,F,Jordan,Jordan,lowerlevel,1,A,French,S,Mum,0.25,0.8080808080808081,29,23,Good,0,M,low,B,P
+334,M,Lybia,Lybia,lowerlevel,1,A,French,F,Mum,0.1,0.08080808080808081,9,3,Good,1,L,very low,A,
+335,M,Lybia,Lybia,lowerlevel,1,A,French,S,Mum,0.15,0.0707070707070707,12,7,Good,1,L,very low,A,
+336,F,Palestine,Jordan,lowerlevel,1,A,French,F,Mum,0.7,0.9090909090909091,20,21,Good,0,M,low,B,P
+337,F,Palestine,Jordan,lowerlevel,1,A,French,S,Mum,0.75,0.8080808080808081,15,20,Good,0,M,very low,B,P
+338,F,Palestine,Jordan,lowerlevel,1,B,French,F,Father,0.78,0.98989898989899,10,11,Good,0,M,very low,A,
+339,F,Palestine,Jordan,lowerlevel,1,B,French,S,Father,0.79,0.898989898989899,11,14,Good,0,M,very low,A,
+340,F,Iraq,Iraq,lowerlevel,1,B,French,F,Father,0.16,0.9090909090909091,15,11,Good,0,M,very low,A,
+341,F,Iraq,Iraq,lowerlevel,1,B,French,S,Father,0.17,0.8080808080808081,13,10,Good,0,M,very low,A,
+342,M,Jordan,Jordan,lowerlevel,1,B,French,F,Mum,0.4,0.8787878787878788,50,41,Bad,0,M,medium,C,Q
+343,M,Jordan,Jordan,lowerlevel,1,B,French,S,Mum,0.35,0.9292929292929293,29,33,Bad,0,M,low,C,P
+344,F,Jordan,Jordan,lowerlevel,1,B,French,F,Mum,0.14,0.9797979797979798,15,14,Good,0,H,very low,A,
+345,F,Jordan,Jordan,lowerlevel,1,B,French,F,Mum,0.13,0.8282828282828283,20,30,Good,0,H,low,B,P
+346,F,Jordan,Jordan,lowerlevel,1,B,French,S,Mum,0.24,0.9797979797979798,15,14,Good,0,H,very low,A,
+347,F,Jordan,Jordan,lowerlevel,1,B,French,S,Mum,0.23,0.8282828282828283,20,30,Good,0,H,low,B,P
+348,M,Lybia,Lybia,lowerlevel,1,B,French,F,Mum,0.2,0.030303030303030304,9,3,Good,1,L,very low,A,
+349,M,Lybia,Lybia,lowerlevel,1,B,French,S,Mum,0.15,0.04040404040404041,12,7,Good,1,L,very low,A,
+350,M,Egypt,Egypt,lowerlevel,1,B,French,F,Mum,0.05,0.13131313131313133,6,6,Good,1,L,very low,A,
+351,M,Egypt,Egypt,lowerlevel,1,B,French,S,Mum,0.07,0.09090909090909091,11,10,Good,1,L,very low,A,
+352,F,Jordan,Jordan,lowerlevel,1,B,French,F,Mum,0.1,0.9494949494949495,40,11,Good,0,M,very low,A,
+353,F,Jordan,Jordan,lowerlevel,1,B,French,S,Mum,0.25,0.898989898989899,21,13,Good,0,M,very low,A,
+354,M,Jordan,Jordan,lowerlevel,1,B,French,F,Mum,0.3,0.98989898989899,42,21,Good,0,H,low,B,P
+355,M,Jordan,Jordan,lowerlevel,1,B,French,S,Mum,0.35,0.9797979797979798,41,23,Good,0,H,low,B,P
+356,M,Jordan,Jordan,lowerlevel,1,B,French,F,Father,0.32,0.8888888888888888,32,25,Good,0,M,low,B,P
+357,M,Jordan,Jordan,lowerlevel,1,B,French,S,Father,0.25,0.8787878787878788,21,27,Good,0,M,low,B,P
+358,F,lebanon,lebanon,lowerlevel,1,B,French,F,Mum,0.72,0.98989898989899,52,15,Good,0,H,very low,A,
+359,F,lebanon,lebanon,lowerlevel,1,B,French,S,Mum,0.75,0.9090909090909091,51,17,Good,0,H,very low,B,
+360,M,Jordan,Jordan,lowerlevel,1,A,Arabic,F,Father,0.2,0.8888888888888888,31,28,Good,1,M,low,B,P
+362,M,Palestine,Jordan,lowerlevel,1,A,Arabic,F,Father,0.9,0.98989898989899,41,38,Good,0,H,low,C,Q
+363,M,Palestine,Jordan,lowerlevel,1,A,IT,S,Father,0.8,0.8888888888888888,51,39,Good,0,H,low,C,Q
+364,M,Iraq,Iraq,lowerlevel,1,A,Arabic,F,Father,0.8,0.9595959595959596,21,28,Good,0,H,low,B,P
+365,M,Iraq,Iraq,lowerlevel,1,A,Arabic,S,Father,0.78,0.7070707070707071,31,29,Good,0,H,low,B,P
+366,M,Jordan,Jordan,lowerlevel,1,A,Arabic,F,Father,0.1,0.18181818181818182,71,38,Good,1,M,low,C,Q
+367,M,Jordan,Jordan,lowerlevel,1,A,Arabic,S,Father,0.1,0.5858585858585859,51,48,Good,1,M,medium,C,Q
+368,F,Palestine,Jordan,lowerlevel,1,A,Arabic,F,Mum,0.98,0.8888888888888888,60,31,Good,0,H,low,C,P
+369,F,Palestine,Jordan,lowerlevel,1,A,Arabic,S,Mum,0.75,0.8181818181818182,51,34,Good,0,H,low,C,P
+370,M,Jordan,Jordan,lowerlevel,1,A,Arabic,F,Father,0.1,0.1717171717171717,50,21,Bad,0,M,low,B,P
+371,M,Jordan,Jordan,lowerlevel,1,A,Arabic,S,Father,0.35,0.020202020202020204,29,23,Bad,0,M,low,B,P
+372,F,Jordan,Jordan,lowerlevel,1,A,Arabic,F,Father,0.1,0.20202020202020202,22,97,Bad,1,L,very high,E,
+373,F,Jordan,Jordan,lowerlevel,1,A,Arabic,S,Father,0.05,0.09090909090909091,19,98,Bad,1,L,very high,E,
+374,M,Jordan,Jordan,lowerlevel,1,B,Arabic,F,Father,0.1,0.10101010101010101,40,51,Bad,1,L,medium,D,Q
+375,M,Jordan,Jordan,lowerlevel,1,B,Arabic,S,Father,0.35,0.020202020202020204,29,23,Bad,1,L,low,B,P
+376,M,Jordan,Jordan,lowerlevel,1,B,Arabic,F,Mum,0.2,0.9090909090909091,50,61,Bad,1,M,high,D,R
+377,M,Jordan,Jordan,lowerlevel,1,B,Arabic,S,Mum,0.32,0.8282828282828283,59,63,Bad,1,M,high,D,R
+378,M,Jordan,Jordan,lowerlevel,1,B,Arabic,F,Father,0.1,0.30303030303030304,50,91,Bad,1,L,very high,E,T
+379,M,Jordan,Jordan,lowerlevel,1,B,Arabic,S,Father,0.12,0.2222222222222222,59,83,Bad,1,L,very high,E,T
+380,F,Jordan,Jordan,lowerlevel,1,B,Arabic,F,Father,0.11,0.20202020202020202,20,98,Bad,1,L,very high,E,
+381,F,Jordan,Jordan,lowerlevel,1,B,Arabic,S,Father,0.1,0.12121212121212122,29,93,Bad,1,L,very high,E,T
+382,M,Iraq,Iraq,lowerlevel,1,B,Arabic,F,Mum,0.69,0.8282828282828283,20,28,Good,0,H,low,B,P
+383,M,Iraq,Iraq,lowerlevel,1,B,Arabic,S,Mum,0.7,0.8383838383838383,29,33,Good,0,H,low,C,P
+384,F,Iraq,Iraq,lowerlevel,1,B,Arabic,F,Mum,0.89,0.9292929292929293,40,28,Good,0,H,low,B,P
+385,F,Iraq,Iraq,lowerlevel,1,B,Arabic,S,Mum,0.79,0.9393939393939394,49,23,Good,0,H,low,B,P
+386,M,Jordan,Jordan,lowerlevel,1,B,Arabic,F,Mum,0.15,0.9090909090909091,21,97,Good,0,M,very high,E,
+387,M,Jordan,Jordan,lowerlevel,1,B,Arabic,S,Mum,0.2,0.7777777777777778,31,88,Good,0,M,very high,E,T
+388,M,Jordan,SaudiArabia,lowerlevel,1,B,Arabic,F,Mum,0.04,0.10101010101010101,11,7,Good,1,L,very low,A,
+389,M,Jordan,SaudiArabia,lowerlevel,1,B,Arabic,S,Mum,0.05,0.0,1,8,Good,1,L,very low,A,
+390,F,Jordan,Jordan,MiddleSchool,5,A,Biology,F,Mum,0.88,0.8181818181818182,50,10,Good,1,M,very low,A,
+391,F,Jordan,Jordan,MiddleSchool,5,A,Biology,S,Mum,0.9,0.8888888888888888,54,12,Good,1,M,very low,A,
+392,F,Iraq,Iraq,MiddleSchool,5,A,Biology,F,Mum,0.86,0.98989898989899,50,20,Good,0,H,very low,B,P
+393,F,Iraq,Iraq,MiddleSchool,5,A,Biology,S,Mum,0.9,0.9090909090909091,57,22,Good,0,H,low,B,P
+394,M,Jordan,Palestine,MiddleSchool,5,A,Biology,F,Mum,0.78,0.9191919191919192,50,40,Good,0,H,low,C,Q
+395,M,Jordan,Palestine,MiddleSchool,5,A,Biology,S,Mum,0.7,0.98989898989899,54,72,Good,0,H,high,D,S
+396,M,Jordan,Jordan,MiddleSchool,5,A,Biology,F,Father,0.8,0.8080808080808081,46,61,Bad,0,M,high,D,R
+397,M,Jordan,Jordan,MiddleSchool,5,A,Biology,S,Father,0.85,0.8282828282828283,59,63,Bad,0,M,high,D,R
+398,M,Palestine,Palestine,MiddleSchool,5,A,Biology,F,Father,0.88,0.9090909090909091,86,81,Good,0,H,very high,E,T
+399,M,Palestine,Palestine,MiddleSchool,5,A,Biology,S,Father,0.89,0.9292929292929293,89,83,Good,0,H,very high,E,T
+400,M,Jordan,Jordan,MiddleSchool,5,A,Biology,F,Father,0.39,0.7171717171717171,40,26,Good,1,M,low,B,P
+401,M,Jordan,Jordan,MiddleSchool,5,A,Biology,S,Father,0.35,0.8080808080808081,34,22,Good,1,M,low,B,P
+402,M,Jordan,Jordan,MiddleSchool,5,A,Biology,F,Father,0.76,0.8181818181818182,80,86,Good,0,H,very high,E,T
+403,M,Jordan,Jordan,MiddleSchool,5,A,Biology,S,Father,0.65,0.898989898989899,64,82,Good,0,H,very high,E,T
+404,F,Syria,Syria,MiddleSchool,5,A,Biology,F,Mum,0.96,0.9595959595959596,70,70,Good,0,H,high,D,S
+405,F,Syria,Syria,MiddleSchool,5,A,Biology,S,Mum,0.8,0.9191919191919192,87,72,Good,0,H,high,D,S
+406,M,Jordan,Jordan,MiddleSchool,5,A,Biology,F,Mum,0.02,0.09090909090909091,10,1,Bad,1,L,very low,A,
+407,M,Jordan,Jordan,MiddleSchool,5,A,Biology,S,Mum,0.03,0.08080808080808081,19,3,Bad,1,L,very low,A,
+408,M,Jordan,Jordan,MiddleSchool,5,B,Biology,F,Father,0.5,0.797979797979798,10,31,Bad,0,M,low,C,P
+409,M,Jordan,Jordan,MiddleSchool,5,B,Biology,S,Father,0.53,0.8888888888888888,9,33,Bad,0,M,low,C,P
+410,F,Jordan,Jordan,MiddleSchool,5,B,Biology,F,Mum,0.7,0.898989898989899,12,21,Good,0,H,low,B,P
+411,F,Jordan,Jordan,MiddleSchool,5,B,Biology,S,Mum,0.59,0.9090909090909091,19,43,Good,0,H,medium,C,Q
+412,M,Palestine,Jordan,MiddleSchool,5,B,Biology,F,Father,0.78,0.8080808080808081,66,51,Good,0,M,medium,D,Q
+413,M,Palestine,Jordan,MiddleSchool,5,B,Biology,S,Father,0.79,0.7272727272727273,79,83,Good,0,M,very high,E,T
+414,F,Lybia,Lybia,MiddleSchool,5,B,Biology,F,Mum,0.1,0.09090909090909091,2,1,Good,1,L,very low,A,
+415,F,Lybia,Lybia,MiddleSchool,5,B,Biology,S,Mum,0.09,0.0707070707070707,9,3,Good,1,L,very low,A,
+416,M,Iraq,Iraq,MiddleSchool,5,B,Biology,F,Father,0.98,0.9090909090909091,86,71,Good,0,H,high,D,S
+417,M,Iraq,Iraq,MiddleSchool,5,B,Biology,S,Father,0.89,0.9292929292929293,89,83,Good,0,H,very high,E,T
+418,M,Palestine,Jordan,MiddleSchool,5,B,Biology,F,Father,0.88,0.9090909090909091,76,81,Good,0,H,very high,E,T
+419,M,Palestine,Jordan,MiddleSchool,5,B,Biology,S,Father,0.99,0.9696969696969697,89,84,Good,0,H,very high,E,T
+420,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Mum,0.82,0.898989898989899,22,31,Good,0,H,low,C,P
+421,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Mum,0.84,0.9292929292929293,29,43,Good,0,H,medium,C,Q
+422,F,Jordan,Jordan,MiddleSchool,6,A,Geology,F,Mum,0.7,0.696969696969697,46,45,Good,1,M,medium,C,Q
+423,F,Jordan,Jordan,MiddleSchool,6,A,Geology,S,Mum,0.74,0.6262626262626263,49,43,Good,1,M,medium,C,Q
+424,F,Jordan,Jordan,MiddleSchool,6,A,Geology,F,Mum,0.9,0.797979797979798,76,79,Good,0,H,high,E,T
+425,F,Jordan,Jordan,MiddleSchool,6,A,Geology,S,Mum,0.84,0.7777777777777778,79,68,Good,0,H,high,D,R
+426,M,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Mum,0.8,0.8080808080808081,62,11,Good,1,M,very low,A,
+427,M,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Mum,0.81,0.8282828282828283,69,13,Good,1,M,very low,A,
+428,M,Jordan,SaudiArabia,MiddleSchool,6,A,Chemistry,F,Father,0.1,0.0,2,41,Bad,1,L,medium,C,Q
+429,M,Jordan,SaudiArabia,MiddleSchool,6,A,Chemistry,S,Father,0.11,0.020202020202020204,9,49,Bad,1,L,medium,C,Q
+430,M,Jordan,SaudiArabia,MiddleSchool,6,A,Geology,F,Father,0.85,0.898989898989899,22,61,Bad,0,H,high,D,R
+431,M,Jordan,SaudiArabia,MiddleSchool,6,A,Geology,S,Father,0.8,0.898989898989899,23,68,Bad,0,H,high,D,R
+432,M,Jordan,SaudiArabia,MiddleSchool,6,A,Geology,F,Father,0.95,0.8787878787878788,62,81,Bad,0,M,very high,E,T
+433,M,Jordan,SaudiArabia,MiddleSchool,6,A,Geology,S,Father,0.87,0.797979797979798,73,98,Bad,0,M,very high,E,
+434,M,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Mum,0.85,0.8787878787878788,72,10,Good,1,M,very low,A,
+435,M,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Mum,0.79,0.8888888888888888,79,20,Good,1,M,very low,B,P
+436,M,Jordan,Jordan,MiddleSchool,6,A,Geology,F,Mum,0.8,0.8181818181818182,71,30,Good,0,M,low,B,P
+437,M,Jordan,Jordan,MiddleSchool,6,A,Geology,S,Mum,0.7,0.8383838383838383,70,23,Good,0,M,low,B,P
+438,M,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Mum,0.8,0.8282828282828283,76,19,Good,0,M,very low,B,P
+439,M,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Mum,0.7,0.8282828282828283,75,29,Good,0,M,low,B,P
+440,M,Jordan,Jordan,MiddleSchool,6,A,Geology,F,Mum,0.89,0.8787878787878788,86,15,Good,0,M,very low,A,
+441,M,Jordan,Jordan,MiddleSchool,6,A,Geology,S,Mum,0.9,0.8686868686868687,85,10,Good,0,M,very low,A,
+442,M,Jordan,Jordan,MiddleSchool,6,A,History,F,Mum,0.69,0.7777777777777778,76,75,Good,1,M,high,E,S
+443,M,Jordan,Jordan,MiddleSchool,6,A,History,S,Mum,0.7,0.7676767676767676,65,70,Good,1,M,high,D,S
+444,M,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Mum,0.75,0.7272727272727273,64,39,Good,1,L,low,C,Q
+445,M,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Mum,0.72,0.7676767676767676,66,40,Good,1,L,low,C,Q
+446,M,Jordan,Jordan,MiddleSchool,6,A,Geology,F,Mum,0.77,0.8282828282828283,74,79,Good,0,M,high,E,T
+447,M,Jordan,Jordan,MiddleSchool,6,A,Geology,S,Mum,0.71,0.8484848484848485,67,80,Good,0,M,very high,E,T
+448,M,Jordan,Jordan,MiddleSchool,6,A,History,F,Mum,0.87,0.9292929292929293,74,89,Good,0,H,very high,E,T
+449,M,Jordan,Jordan,MiddleSchool,6,A,History,S,Mum,0.81,0.8484848484848485,77,85,Good,0,H,very high,E,T
+450,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Father,0.15,0.9797979797979798,22,10,Good,0,H,very low,A,
+451,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Father,0.19,0.98989898989899,20,2,Good,0,H,very low,A,
+452,F,Jordan,Jordan,MiddleSchool,6,A,Geology,F,Father,0.25,0.8282828282828283,52,20,Good,1,M,very low,B,P
+453,F,Jordan,Jordan,MiddleSchool,6,A,Geology,S,Father,0.29,0.7878787878787878,40,12,Good,1,M,very low,A,
+454,F,Jordan,Jordan,MiddleSchool,6,A,History,F,Father,0.45,0.8787878787878788,57,80,Good,0,M,very high,E,T
+455,F,Jordan,Jordan,MiddleSchool,6,A,History,S,Father,0.39,0.8888888888888888,43,72,Good,0,M,high,D,S
+456,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Father,0.85,0.9090909090909091,52,30,Good,0,H,low,B,P
+457,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Father,0.79,0.9191919191919192,49,22,Good,0,H,low,B,P
+458,M,Iraq,Iraq,MiddleSchool,6,A,Chemistry,F,Father,0.9,0.9191919191919192,80,81,Good,0,H,very high,E,T
+459,M,Iraq,Iraq,MiddleSchool,6,A,Chemistry,S,Father,0.8,0.9090909090909091,80,83,Good,0,H,very high,E,T
+460,M,Iraq,Iraq,MiddleSchool,6,A,Geology,F,Father,0.8,0.8383838383838383,82,71,Good,1,M,high,D,S
+461,M,Iraq,Iraq,MiddleSchool,6,A,Geology,S,Father,0.71,0.8181818181818182,83,72,Good,1,M,high,D,S
+462,M,Iraq,Iraq,MiddleSchool,6,A,History,F,Father,0.72,0.8787878787878788,72,89,Good,1,M,very high,E,T
+463,M,Iraq,Iraq,MiddleSchool,6,A,History,S,Father,0.69,0.7777777777777778,83,92,Good,1,M,very high,E,T
+464,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Mum,0.85,1.0,42,90,Good,0,H,very high,E,T
+465,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Mum,0.89,0.9696969696969697,45,92,Good,0,H,very high,E,T
+466,F,Jordan,Jordan,MiddleSchool,6,A,Geology,F,Mum,0.8,0.8282828282828283,64,58,Good,0,H,medium,D,R
+467,F,Jordan,Jordan,MiddleSchool,6,A,Geology,S,Mum,0.87,0.9393939393939394,63,60,Good,0,H,high,D,R
+468,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Father,0.15,0.09090909090909091,14,80,Bad,1,L,very high,E,T
+469,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,S,Father,0.09,0.06060606060606061,15,85,Bad,1,L,very high,E,T
+470,M,Palestine,Jordan,MiddleSchool,6,A,History,F,Father,0.81,0.8686868686868687,86,41,Good,0,M,medium,C,Q
+471,M,Palestine,Jordan,MiddleSchool,6,A,History,S,Father,0.78,0.8282828282828283,78,53,Good,0,M,medium,D,Q
+472,M,Palestine,Palestine,MiddleSchool,6,A,Geology,F,Father,0.8,0.8787878787878788,74,68,Good,0,M,high,D,R
+473,M,Palestine,Palestine,MiddleSchool,6,A,Geology,S,Father,0.85,0.8888888888888888,79,70,Good,0,M,high,D,S
+474,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Father,0.02,0.0707070707070707,4,8,Bad,1,L,very low,A,
+475,F,Jordan,Jordan,MiddleSchool,6,A,Chemistry,F,Father,0.05,0.04040404040404041,5,8,Bad,1,L,very low,A,
+476,F,Jordan,Jordan,MiddleSchool,6,A,Geology,F,Father,0.5,0.7777777777777778,14,28,Bad,0,M,low,B,P
+477,F,Jordan,Jordan,MiddleSchool,6,A,Geology,S,Father,0.55,0.7474747474747475,25,29,Bad,0,M,low,B,P
+478,F,Jordan,Jordan,MiddleSchool,6,A,History,F,Father,0.3,0.1717171717171717,14,57,Bad,1,L,medium,D,Q
+479,F,Jordan,Jordan,MiddleSchool,6,A,History,S,Father,0.35,0.1414141414141414,23,62,Bad,1,L,high,D,R
